@@ -30,7 +30,7 @@ FROM stadlerpeter/existdb
 # https://github.com/peterstadler/existdb-docker
 ENV EXIST_ENV="production"
 ENV EXIST_CONTEXT_PATH="/"
-ENV EXIST_DEFAULT_APP_PATH="xmldb:exist:///db/apps/bw-module2"
+ENV EXIST_DEFAULT_APP_PATH="xmldb:exist:///db/apps/exist-module"
 
 # simply copy our SMuFL-browser xar package
 # to the eXist-db autodeploy folder
