@@ -114,7 +114,10 @@ declare function bw:getStatesJson($scar as node(), $enriched.doc as node()) as x
     let $dels := $enriched.doc//mei:del[@changeState = concat('#',$state.id)]
     let $del.shapes := distinct-values($dels/tokenize(normalize-space(replace(@facs,'#','')),' '))
     
-    let $all.shapes := distinct-values(($element.shapes,$del.shapes))
+    let $adds := $enriched.doc//mei:add[@changeState = concat('#',$state.id)]
+    let $add.shapes := distinct-values($adds/tokenize(normalize-space(replace(@facs,'#','')),' '))
+    
+    let $all.shapes := distinct-values(($element.shapes,$del.shapes,$add.shapes))
     
     let $shapes := 
         for $shape in $all.shapes

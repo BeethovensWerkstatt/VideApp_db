@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../../Desktop/bw_data.model_2014_rev1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../../schemata/rng/bw_data.model_2014_rev1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="Codierung_op.75.2" meiversion="2013" meiversion.num="2.1.1">
     <meiHead xml:id="a789532f9-c57e-4c4c-b518-c86762453418" meiversion="2013" meiversion.num="2.1.1">
@@ -25,7 +24,7 @@
                     <p>Das hier erarbeitete Beispiel stammt aus Beethovens Lied „Neue Liebe, neues Leben“, op. 75 Nr. 2 (1809) auf ein Gedicht von Goethe. 
                         Dargestellt wird eine Variantenstelle, die sich in der autographen Partitur (Beethoven-Haus Bonn, Sammlung H. C. Bodmer, HCB Mh 34, fol. 5r–6r) 
                         am Lied-Ende (T. 124–135) befindet. Bei diesem Beispiel wurde eine neue Darstellungsweise zur Rekonstruktion des Schreibprozesses entwickelt, 
-                        die es ermöglicht, die einzelnen Schreibschichten nacheinander einzublenden. </p>
+                        die es ermöglicht, die einzelnen Schreibschichten nacheinander einzublenden.</p>
                 </annot>
                 <annot n="1" xml:id="new256d87e9-7497-4d4d-82f3-3a96ad843aca" type="introduction">
                     <title>Zum Werk</title>
@@ -42,8 +41,8 @@
                 </annot>
                 <annot n="2" xml:id="new7d587436-e59f-40a8-b49f-7a28e93a2e06" type="introduction">
                     <title>Zur Quelle</title>
-                    <p>In der vorliegenden Fallstudie wurde Beethovens Werkniederschrift zum Lied Op. 75/2 untersucht (<!--<corpName authURI="https://www.beethoven.de/sixcms/detail.php?id=15120&template=dokseite_digitales_archiv_de&_eid=1502&_ug=Lieder%2C%20Kanons%2C%20Notenscherze&_werkid=75&_dokid=wm304&_opus=op.%2075&_mid=Werke&suchparameter=&_sucheinstieg=&_seite=1">
-                        D-BNba, Sammlung H. C. Bodmer, HCB Mh 34</corpName>-->).
+                    <p>In der vorliegenden Fallstudie wurde Beethovens Werkniederschrift zum Lied Op. 75/2 untersucht <!--(<corpName authURI="https://www.beethoven.de/sixcms/detail.php?id=15120&template=dokseite_digitales_archiv_de&_eid=1502&_ug=Lieder%2C%20Kanons%2C%20Notenscherze&_werkid=75&_dokid=wm304&_opus=op.%2075&_mid=Werke&suchparameter=&_sucheinstieg=&_seite=1">
+                        D-BNba, Sammlung H. C. Bodmer, HCB Mh 34</corpName>)-->.
                         In diesem Arbeitsmanuskript schrieb der Komponist die Frühfassung des Liedes ab und überarbeitete sie dabei. 
                         Da es sich im Wesentlichen um eine Abschrift handelt, ist dieses Manuskript im Vergleich zu anderen verhältnismäßig 
                         sauber geschrieben und enthält eher wenige Arbeitsspuren. Die Überarbeitungen setzte Beethoven zum Großteil mit 
@@ -67,7 +66,7 @@
                         am Lied-Ende zu finden. Für die Frühfassung von <date>1798/99</date> ist eine Skizze überliefert, 
                         die belegt, dass Beethoven schon dort nach einem geeigneten Schluss suchte (D-B, Mus. ms. autogr. 
                         Beethoven Grasnick 1, fol. 21v, Z. 6/7–8/9, siehe die <ref target="">Transkription von Unger</ref> <!-- hier pdf der Transkription verlinken -->1936, S. 1063).
-                        In dieser Skizze ist der Schluss noch acht Takte länger als in der <!--<corpName authURI="https://www.beethoven.de/sixcms/detail.php?&id=15120&template=dokseite_digitales_archiv_de&_eid=1502&_ug=Lieder%2C%20Kanons%2C%20Notenscherze&_werkid=296&_dokid=T00002992&_opus=WoO%20127&_mid=Werke&_seite=1-8">Frühfassung</corpName>-->, 
+                        In dieser Skizze ist der Schluss noch acht Takte länger als in der <!--<corpName authURI="https://www.beethoven.de/sixcms/detail.php?&id=15120&template=dokseite_digitales_archiv_de&_eid=1502&_ug=Lieder%2C%20Kanons%2C%20Notenscherze&_werkid=296&_dokid=T00002992&_opus=WoO%20127&_mid=Werke&_seite=1-8">-->Frühfassung<!--</corpName>-->, 
                         wie sie in der Simrock-Ausgabe überliefert ist.</p>
                     <p>
                         Für die Fallstudie wurde die Variantenstelle aus der Werkniederschrift von Op. 75/2 ausgewählt, 
@@ -78,7 +77,7 @@
                         vgl. hierzu den Artikel <ref target="http://beethovens-werkstatt.de/glossary/cue-staff/">Cue staff</ref> im Glossar). Die hier skizzierte Melodie 
                         übernimmt einerseits einen Teil der Frühfassung (der 6.–9. Takt der Skizze: <ref target="#a7c2ed3f8-fd56-4805-a537-1e200fed3b21">T. 128a</ref>–<ref target="#a371382f9-f1db-4b5d-8e5c-d61f10eebce2">T. 131a</ref> 
                         entspricht T. 122–125 von WoO 127) und enthält gleichzeitig schon Elemente der letztendlich im Werk vorhandenen Schlusstakte: 
-                        Die <ref target="#a7bf90aa6-6d37-423c-96d5-b066ce34b3f3 #a87cfdd84-8d34-420e-9365-cc5ed4c53e96 #ad784d9a4-738a-47ac-a8a5-9ad6d1b42701">ersten sieben Noten</ref> 
+                        Die <ref target="#a7bf90aa6-6d37-423c-96d5-b066ce34b3f3">ersten sieben Noten</ref> 
                         der Skizze entsprechen dem Singstimmenverlauf von T. 123–125 und auch der <ref target="#a0cf3c86c-63ca-4506-abec-51e4bb1b281a">Sechzehntellauf</ref> des 
                         Klaviernachspiels der Werkfassung Op. 75/2 ist in dieser Cue staff-Skizze bereits vorhanden.</p>
                     <p>
@@ -123,7 +122,7 @@
                         nicht zu bestimmen ist. In <ref target="#a18ba1fec-f27b-43e7-a973-627c2151fd7c">T. 139a</ref> wandelte Beethoven eine Viertelnote 
                         <ref target="#aa02a8454-6ded-49ac-b59e-244c070f0969">c2</ref> in ein <ref target="#ab43287ed-1059-4ccb-b720-9116914519b4">g2</ref> um
                         (Variante b). Zudem änderte er den <ref target="#aa3e50544-49fd-4af9-a293-4597fda8bfc5">Schlusstakt mit ursprünglich drei Viertelnoten c2</ref> 
-                        zu <ref target="#a98cae798-9389-425a-9795-a7308f7f79a0 #af9203ecc-890b-4990-9bc7-13166e934e75">zwei Takten</ref> mit jeweils einer Viertel 
+                        zu <ref target="#a98cae798-9389-425a-9795-a7308f7f79a0">zwei Takten</ref> mit jeweils einer Viertel 
                         ab (Variante c).
                     </p>
                     <p>
@@ -131,7 +130,7 @@
                         Beethoven schrieb die Singstimme ab <ref target="#ac4c2fe13-8cf2-4d56-a2d5-49f8fe0206ec">T. 124</ref> (mit Auftakt) und im Anschluss den 
                         Leitstimmenverlauf des Klaviernachspiels nieder. 
                         Noch bevor er die Partitur weiter ausarbeitete, brach er diesen Versuch ab. In den folgenden Varianten arbeitete Beethoven 
-                        an der Vertonung der letzten drei Worte des Gedichts „lass mich los“.
+                        an der Vertonung der letzten drei Worte des Gedichts „laß mich los“.
                     </p>
                     <p>
                         <title>
@@ -203,8 +202,9 @@
                     <p>
                         <title>Variante L:</title>
                         Beethoven nahm in der Klavierbegleitung in mehreren Takten (T. 124, 125, 127–130, 132 und 134) 
-                        mittels Rasuren weitere Änderungen vor, die jedoch mit Ausnahme der hier dargestellten 
-                        <ref target="#aea2490f4-e64e-4552-a1dd-f5f755f5f63b #ae017450a-9b14-4821-99b7-15fc4e0ae682 #a92fca7e0-fd7e-40c0-a347-af690d72607e">Variante in T. 124/125</ref> 
+                        mittels Rasuren weitere Änderungen vor, die jedoch mit Ausnahme der hier dargestellten Variante in 
+                        <ref target="#aea2490f4-e64e-4552-a1dd-f5f755f5f63b">T. 124</ref>/
+                        <ref target="#ae017450a-9b14-4821-99b7-15fc4e0ae682 #a92fca7e0-fd7e-40c0-a347-af690d72607e">125</ref>
                         nicht rekonstruiert und zeitlich eingeordnet werden können.
                     </p>
                     <p>
@@ -246,15 +246,15 @@
                 <annot n="6" xml:id="new56252604-a510-4870-a19a-7ad60f2f652eert" type="introduction">
                     <title>Literaturauswahl</title>
                     <p>
-                        Max Unger: <rend fontstyle="italic">Neue Liebe, neues Leben. Die Urschrift und die Geschichte eines Goethe-Beethoven-Liedes</rend>,
-                        in: Zeitschrift für Musik 103, 9 (1936), S. 1049–1075.
-                    </p>
-                    <p>
                         Beethoven Werke. Gesamtausgabe, Abteilung XII, Bd. 1: Lieder und Gesänge mit Klavierbegleitung, 
                         Kritischer Bericht, hg. von Helga Lühning, München 1990 (S. 20f. und S. 47f.)
                     </p>
                     <p>
                         Ludwig van Beethoven. Drei Lieder nach Gedichten von Goethe. Faksimile. Mit einem Kommentar von Helga Lühning, Bonn 1999. 
+                    </p>
+                    <p>
+                        Max Unger: <rend fontstyle="italic">Neue Liebe, neues Leben. Die Urschrift und die Geschichte eines Goethe-Beethoven-Liedes</rend>,
+                        in: Zeitschrift für Musik 103, 9 (1936), S. 1049–1075.
                     </p>
                 </annot>
             </notesStmt>
@@ -1738,12 +1738,12 @@
                                                 </add>
                                             </note>
                                             <unclear xml:id="acfb9260c-ac4a-4fc6-b199-2b910f7bb3c1">
-                                                <del xml:id="a1e2d9693-e295-41f8-834e-46b787d869de" changeState="#qwertz10a" facs="#shape_d3339729-7795-4c3b-b506-4b6f057656ab #shape_e63f942e-fc4a-438c-83f6-588c8375449a #shape_2894dc13-916f-43d1-9bd5-21e50e5f89d6 #shape_ecbaacfa-d09a-4a26-bc22-70cf60b134f0">
-                                                    <note xml:id="ab4104549-b439-46ff-887c-b9e10001d1e1" pname="a" facs="#shape_64bca173-3e3d-46cf-a01b-cabd17a98d1d #shape_12a97faf-0dfc-4338-af91-7e29d7decd24" oct="3" dur="8"/>
+                                                <del xml:id="a1e2d9693-e295-41f8-834e-46b787d869de" changeState="#qwertz10a" facs="#shape_ecbaacfa-d09a-4a26-bc22-70cf60b134f0 #shape_2894dc13-916f-43d1-9bd5-21e50e5f89d6 #shape_e63f942e-fc4a-438c-83f6-588c8375449a #shape_d3339729-7795-4c3b-b506-4b6f057656ab">
+                                                    <note xml:id="ab4104549-b439-46ff-887c-b9e10001d1e1" pname="a" facs="#shape_9b08207e-3139-4bc7-8cfc-1be78bea68c1 #shape_220d61ed-b86e-4573-bc02-ab31e9d59b8c" oct="3" dur="8"/>
                                                 </del>
                                             </unclear>
                                             <add xml:id="a2862acf3-e5fc-4dc6-aab9-b93684504086" changeState="#qwertz10a">
-                                                <chord xml:id="aea2490f4-e64e-4552-a1dd-f5f755f5f63b" dur="8" stem.dir="down" facs="#shape_9b08207e-3139-4bc7-8cfc-1be78bea68c1 #shape_236f6038-c08c-4762-a413-272d0fb7ff19 #shape_12a97faf-0dfc-4338-af91-7e29d7decd24">
+                                                <chord xml:id="aea2490f4-e64e-4552-a1dd-f5f755f5f63b" dur="8" stem.dir="down" facs="#shape_236f6038-c08c-4762-a413-272d0fb7ff19 #shape_12a97faf-0dfc-4338-af91-7e29d7decd24">
                                                     <note xml:id="a29c052e7-ecef-40c9-9463-7c326e120bae" pname="a" oct="2"/>
                                                     <note xml:id="afb4d94cd-bbeb-46b7-8e4e-f55fe077bc63" pname="a" oct="3"/>
                                                 </chord>
@@ -1779,7 +1779,7 @@
                                                 <syl xml:id="a4ca0da02-210f-4349-87a4-ebc1dbaa1bc8" wordpos="i" facs="#shape_d29c2930-a5ae-4eaa-bc6f-fde80473afbd #shape_0a777ed8-5d17-400a-ae5c-c774677d929a">Lie</syl>
                                             </verse>
                                         </note>
-                                        <note xml:id="a0bef2c61-36a0-4eef-86a7-544335ddc027" pname="d" oct="5" dur="8" stem.dir="down" facs="#shape_d29c2930-a5ae-4eaa-bc6f-fde80473afbd #shape_0a777ed8-5d17-400a-ae5c-c774677d929a">
+                                        <note xml:id="a0bef2c61-36a0-4eef-86a7-544335ddc027" pname="d" oct="5" dur="8" stem.dir="down" facs="#shape_5f7d516d-efe3-440b-bd9f-67b65d3c763a">
                                             <verse xml:id="a52723a3b-2712-4e79-b921-2bec1540e7e6" n="1">
                                                 <syl xml:id="a4e5de153-d0ca-4aff-906b-dd348debbf48" wordpos="t" facs="#shape_6bd83c84-f4d6-4333-b30c-3cc738ae9650 #shape_5ab8c138-19c9-4201-9208-ec87179cd18d #shape_a4960dfb-02df-45eb-8407-bfa03ec96d75 #shape_a349294d-6201-48b8-b70f-1204bb894437">be!</syl>
                                             </verse>
@@ -1877,7 +1877,7 @@
                                 <add xml:id="a1e4d498b-62f2-49ca-ad41-c06f8f832587" changeState="#qwertz11">
                                     <metaMark xml:id="adcbef691-5292-4339-994d-fb7f16ad6ee1" staff="2" tstamp="3" layer="2" startid="#ad7a7dbb1-be8e-4b60-a9dd-bf7f490b4e92" facs="#shape_36e745d0-e367-4afd-8778-71af490b90fa #shape_d193ff9b-0a7d-4837-95d7-385961ecec60" function="clarification"/>
                                     <slur xml:id="a645c0372-5d26-4dab-8208-0f39ff225c60" tstamp="1" curvedir="above" tstamp2="0m+6" staff="2" facs="#shape_e12d40e9-3977-46ef-94c8-6f55a247fa0d"/>
-                                    <slur xml:id="ab1ff691e-74db-4634-a00f-cc4d1ee391bf" tstamp="1" curvedir="below" tstamp2="0m+7" staff="3" facs="#shape_d47543f3-f80e-4054-afca-a7500ca57044"/>
+                                    <slur xml:id="ab1ff691e-74db-4634-a00f-cc4d1ee391bf" tstamp="1" curvedir="below" tstamp2="0m+6" staff="3" layer="2" facs="#shape_d47543f3-f80e-4054-afca-a7500ca57044"/>
                                     <metaMark xml:id="aba24022d-3411-4dfa-828d-654f9c9f265b" staff="3" function="clarification" startid="#ab1ff691e-74db-4634-a00f-cc4d1ee391bf" facs="#shape_1313335c-a0c9-43a2-adae-8253dcb1d742"/>
                                 </add>
                             </measure>
@@ -2248,7 +2248,7 @@
                                     <dynam xml:id="a519f9903-c288-4873-889b-f34ecd44f23a" staff="3" place="below" tstamp="1" facs="#shape_b97c9172-fb0c-4c45-a7c5-7bda8705d929 #shape_e1974bef-ff70-4762-98a4-2aacd02e1941 #shape_f2aebfb4-be3e-49a5-8e6f-ef1c2518f5d6">sf:</dynam>
                                 </add>
                                 <add xml:id="a89a9a587-8992-42be-8070-3d3dd356810a" changeState="#qwertz11" hand="">
-                                    <slur xml:id="a79cb50dc-224e-4050-a0b6-dd8ba8172720" staff="2" layer="2" tstamp="5" tstamp2="0m+6" curvedir="above" facs="#shape_81d973a6-2870-4edf-ba31-164f71e42448"/>
+                                    <slur xml:id="a79cb50dc-224e-4050-a0b6-dd8ba8172720" staff="2" layer="2" tstamp="5" tstamp2="0m+6" curvedir="below" facs="#shape_81d973a6-2870-4edf-ba31-164f71e42448"/>
                                 </add>
                             </measure>
                             <del xml:id="a40c957c8-d1bd-4746-823b-814954b88677" changeState="#qwertz9">

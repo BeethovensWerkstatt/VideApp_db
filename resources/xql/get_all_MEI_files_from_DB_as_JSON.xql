@@ -45,10 +45,10 @@ let $entries :=
     for $doc in $docs
     let $filename := tokenize(document-uri($doc/root()),'/')[last()]
     let $edition.id := $doc/@xml:id
-    let $edition.title := normalize-space($doc//mei:fileDesc/mei:titleStmt/mei:title[@type = 'editionTitle'][1]/text())
+    let $edition.title := normalize-space($doc//mei:fileDesc/mei:titleStmt/mei:title[@type = 'editionTitle'][1]/string-join(text(),' '))
     let $videApp.workId := normalize-space($doc//mei:altId[@type = 'VideApp' and @subtype = 'work']/@label)
-    let $videApp.main := normalize-space($doc//mei:fileDesc/mei:titleStmt/mei:title[@type = 'videApp.main'][1]/text())
-    let $videApp.sub := normalize-space($doc//mei:fileDesc/mei:titleStmt/mei:title[@type = 'videApp.sub'][1]/text())
+    let $videApp.main := normalize-space($doc//mei:fileDesc/mei:titleStmt/mei:title[@type = 'videApp.main'][1]/string-join(text(),' '))
+    let $videApp.sub := normalize-space($doc//mei:fileDesc/mei:titleStmt/mei:title[@type = 'videApp.sub'][1]/string-join(text(),' '))
     let $edition.desc := normalize-space(string-join($doc//mei:fileDesc/mei:notesStmt/mei:annot[@type = 'editionDesc']/mei:p/normalize-space(string-join(text(),' ')),' '))
     let $preview.zone := //$doc/id($doc//mei:fileDesc/mei:notesStmt/mei:annot[@type = 'editionDesc']/replace(@plist,'#',''))
     let $preview.baseURI := $preview.zone/parent::mei:surface/mei:graphic[@type = 'iiif']/@target

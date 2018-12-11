@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="2013" xml:id="Codierung_op.93" meiversion.num="2.1.1">
     <meiHead meiversion="2013" meiversion.num="2.1.1">
         <altId type="VideApp" subtype="version" n="1.0.0"/>
         <altId type="VideApp" subtype="work" label="Op.93"/>
         <fileDesc>
             <titleStmt>
-                <title type="editionTitle">Textgenetische Informationen zu den Schlusstakten (ab T. 332 bis zum Ende)
+                <title type="editionTitle">Textgenetische Informationen zu den Schlusstakten des I. Satzes der 8. Symphonie Op. 93 (T. 332ff.)
                     des ersten Satzes von Op.93.
                    </title>
                 <title>Symphonie Nr. 8</title>
@@ -22,162 +21,188 @@
                 <annot type="editionDesc" plist="#editionPreviewZone">
                     <p>
                         Beethoven konzipierte für diese Takte drei unterschiedliche
-                        Hauptvarianten, die sich insbesondere anhand ihrer Länge unterscheiden.
-                        Diese Varianten sind teilweise nur in einzelnen Stimmen
+                        Varianten, die sich insbesondere anhand ihrer Länge unterscheiden.
+                        Diese Varianten sind teilweise in einzelnen Stimmen
                         überliefert, deshalb wurde das Beispiel auf der Basis unterschiedlicher
                         Quellen untersucht. Die dafür entwickelte Darstellungsweise 
                         ermöglicht es, den Kompositionsprozess innerhalb dieses Quellennetzes zu
                         visualisieren.
                     </p>
                 </annot>
-                <!-- FR: wahrscheinlich werden wir später "annot 1" bis "annot 3" löschen! Die neue Texte schreibe ich jetzt direkt danach, also von "annot 4" -->
-                
-                <!--<annot n="1" type="introduction">
-                    <title>
-                        Erste Folge - nur Autograph
-                    </title>
-                    <p>Seite 26 verso des Autographs und Seite recto des Austauschblattes sind leer.
-                    Variante A erscheint auf Seite 26 verso des Autographs, dann wird Seite 26 verso gestrichen.
-                    Variante B auf Seite recto des Austauschblatte, dann wird umgeblättert und Variante B komplett gezeigt.
-                    Das Austauschblatt wird herausgeschnitten und neue leere Blätter hinzugefügt.
-                    Seite 27 recto und ff. mit Variante C erscheinen.</p>
-                    <fig>
-                        <avFile xml:id="video1" target="http://nagano.upb.de:29999/video/BW_op.93_sequence1.mp4" mimetype="video/mp4"/>
-                        <caption>Erste Folge</caption>
-                    </fig>
+                <annot n="1" type="introduction">
+                    <title>Zum Werk</title>
+                    <p>Beethovens 8. Symphonie F-Dur op. 93 entstand zwischen 1812 und 1817.
+                        Die ersten dazugehörigen Skizzen sind im sogenannten 
+                        <bibl authURI="https://www.beethoven.de/sixcms/detail.php?id=15123&amp;template=dokseite_digitales_archiv_de&amp;_dokid=wm231&amp;_seite=1-1">‚Petter-Skizzenbuch‘</bibl>  enthalten und waren zunächst (laut Brandenburg/Petter, S. 117–148), für ein Klavierkonzert gedacht, nicht für eine Symphonie.
+                        Eine erste, wegen des schlechten Gesundheitszustandes des Komponisten zunächst verschobene Durchspielprobe der ganzen Symphonie fand am <date>21. April 1813</date> bei <ref target="http://viaf.org/viaf/72186675/">Erzherzog Rudolph</ref> in der Wiener Hofburg statt.
+                        Die erste öffentliche Aufführung ist für den <date>27. Februar 1814</date> im großen Redoutensaal in Wien belegt.
+                        Die <bibl authURI="http://www.beethoven.de/sixcms/detail.php?id=15123&amp;template=dokseite_digitales_archiv_de&amp;_dokid=T00016089&amp;_seite=1-1">Originalausgabe</bibl>  erschien frühestens Ostern 1817 bei <ref>Steiner &amp; Comp.</ref> in Wien.</p>
                 </annot>
                 <annot n="2" type="introduction">
-                    <title>Zweite Folge - Beziehung Autograph und Paukenstimme</title>
-                    <p>Autograph, Austauschblatt und Paukenstimme: Seite 26 verso im Autograph zeigt vollständige Variante A, welche gestrichen wird. Das Austauschblatt ist leer, in der Paukenstimme steht der Text bis zu Variante B.
-                    Dann wird sowohl im Austauschblatt als auch in der Paukenstimme Variante B gezeigt
-                    Text auf der rechten Seite der Paukenstimme wird gezeigt (ohne Überklebung).
-                    Austauschblatt verschwindet und Streichung der Variante B in der Paukenstimme gezeigt.
-                    Variante C auf Seite 27 recto und Überklebung in der Paukenstimme (Variante C) werden angezeigt.</p>
-                    <fig>
-                        <avFile xml:id="video2" target="http://nagano.upb.de:29999/video/BW_op.93_sequence2.mp4" mimetype="video/mp4"/>
-                        <caption>Zweite Folge</caption>
-                    </fig>
+                    <title>Zu den Quellen</title>
+                    <p>Die Werkniederschrift der Partitur befindet sich heute an zwei Standorten: Der I., II. und IV. Satz liegen in Berlin (D-B) und der III. in Krakau (PL-Kj).
+                        Die Manuskriptteile sind nicht nur physisch geteilt, sondern weisen auch verschiedene Papiersorten auf. 
+                        Die untersuchte Variantenstelle befindet sich im Berliner Manuskript (Berlin, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv: Mus. ms. autogr. Beethoven 20/1) 
+                        Zwei unterschiedliche Wasserzeichentypen sind insgesamt für das Manuskript bestimmt worden: Der erste auf den Bl. 1–23, der zweite ab Bl. 24–30. 
+                        Der erste Manuskriptsteil ist von Beethoven selbst mit einer Faszikelszählung versehen worden. Die besprochene Stelle bezeugt zwei verschiedene Versionen der Schlusstakte des Satzes, 
+                        die als erste und letzte der feststellbaren Varianten dieses Schlusses entstanden sind (unten als Varianten A und C gekennzeichnet). 
+                        Diese zwei Varianten scheinen nacheinander niedergeschrieben zu sein und sind auf Bl. 26 verso bzw. auf Bl. 27 recto bis 30 recto zu lesen.
+                        Die auf Bl. 27 recto mit Bleistift hinzugefügten Instrumentenbezeichungen weisen darauf hin, dass die Blätter 27ff. vermutlich zunächst nicht Teil des Manuskripts waren (Hess/Achter Symphonie, S. 112).
+                        Noch unklar ist der kodikologische Zustand des letzten Manuskript-Blattes (Bl. 30), das möglicherweise als ein einzelnes Blatt anzusehen ist (der Einband und die mittlerweile durchgeführte Restaurierung lassen die Frage nicht definitiv beantworten; 
+                        allerdings stimmen die gut erkennbaren Steglinien nach freundlicher Auskunft von Clemens Brenneis mit Bl. 24–29 überein). 
+                        Der Duktus der darauf notierten Takte und die auffälligen Umarbeitungspuren (vgl. dazu „Ergänzende Erläuterungen zu den Zwischenstadien der Textualisierung“) scheinen darüberhinaus die Hypothese zu unterstützen, 
+                        dass dieses Blatt nicht zusammen mit den direkt vorhergehenden vorbereitet wurde.
+                        Ein einzelnes Blatt zu diesem Satz wird heute im Beethoven-Haus in Bonn aufbewahrt (D-BNba, Slg. H.C. Bodmer, HCB BMh 8/48). 
+                        Darauf ist eine weitere Variante (unten als Variante B gekennzeichnet) für die gleiche Stelle notiert. 
+                        Wegen des ähnlichen Papierformats und des fortgeschrittenen Textzustands wurde das Blatt in der Vergangenheit für einen herausgetrennten Bestandteil des Berliner Manuskripts gehalten. 
+                        Neue Untersuchungen des Wasserzeichens zeigen aber, dass das Blatt nie Teil dieses Manuskripts gewesen ist.
+                        Alle drei vorhandenen Varianten sind auch in den beiden handschriftlichen Stimmen überliefert, die wahrscheinlich exzerpiert worden sind, um eine Durchspielprobe des Werks vornehmen zu können 
+                        (Violine 1 von Beethoven selbst abgeschrieben und fragmentarisch überliefert: Paris, Bibliothèque du Conservatoire, Bestand in: Bibliothèque Nationale de France, Ms 19, recto) 
+                        bzw. um die Originalausgabe herzustellen (Pauken: Wien, Gesellschaft der Musikfreunde, XIII 2457 Faszikel A).
+                        Die wirkliche Funktion der Pariser Quelle muss zunächst offen bleiben, da die Verwendung von (in der Größe kaum von dem restlichen Notat abweichenden) Stichnoten 
+                        (vgl. insbesondere T. 372C) eher auf eine Direktionsstimme schließen läßt.
+                    </p>
                 </annot>
                 <annot n="3" type="introduction">
-                    <title>
-                        Dritte Folge - Beziehung Autograph und Violinenstimme
-                    </title>
-                    <p label="Hypothese_1">
-                        Variante A ist im Autograph noch nicht gestrichen, auf der rechten Seite sind das 
-                        leere Austauschblatt und die Violinenstimme zu sehen. In der ersten Zeile des Blattes 
-                        der Violinenstimme wird  Variante A gezeigt. Im Autograph wird Variante A gestrichen, 
-                        Variante B im Austauschblatt gezeigt, welches danach verschwindet und Variante C auf Bl. 27 ff. gezeigt
-                        
+                    <title>Zur bisherigen wissenschaftlichen Auseinandersetzung mit dem Problem des Satzschlusses</title>
+                    <p>Dass die letzten Takte des I. Satzes der 8. Symphonie revidiert wurden, ist für Beethoven-Spezialisten keine Neuigkeit. 
+                        <ref target="http://viaf.org/viaf/22234316/">Gustav Nottebohm</ref> berichtete als erster von einem ursprünglich kürzeren Schluss auf der Basis einer von Kopisten abgeschriebenen Pauken-Stimme (Nottebohm/Beethoveniana, S. 25).
+                        Eben diese Variante wurde dann anhand der erwähnten Pauken-Stimme an dem heute in Bonn aufbewahrten Blatt und der Pariser Violin-Stimme von <ref target="http://viaf.org/viaf/44566274/">Alfred Orel</ref> untersucht (Orel/Op. 93, S. 50–53).
+                        Da Nottebohms Transkription Fehler enthielt und die Quelle in Paris seinerzeit nicht zugänglich war, konnte die Variantenbildung nicht vollständig geklärt werden.
+                        Es wurde nur die Vermutung aufgestellt, die drei erwähnten Quellen könnten eine alternative und kürzere Fassung des Schlusses bezeugen; 
+                        von diesem Moment an war diese Stelle Grundlage zahlreicher Diskussionen in der Fachliteratur (vgl. Literaturauswahl).
                     </p>
-                    <p label="Hypothese_2">
-                        Variante A wird im Autograph gestrichen, auf der rechten Seite steht nun schon Bl. 27 recto und die 
-                        vollständige Variante C. Gleichzeitig ist das Blatt mit der Violinenstimme leer. Dann wird Variante A (erste Zeile) 
-                        in der Violinenstimme eingeblendet, direkt danach auch die Variante C (ab Zeile 3 bis zum Ende).
-                    </p>
-                    <fig>
-                        <avFile xml:id="video3" target="http://nagano.upb.de:29999/video/BW_op.93_sequence3.mp4" mimetype="video/mp4"/>
-                        <caption>Dritte Folge</caption>
-                    </fig>
-                    <fig>
-                        <avFile xml:id="video4" target="http://nagano.upb.de:29999/video/BW_op.93_sequence4.mp4" mimetype="video/mp4"/>
-                        <caption>Vierte Folge</caption>
-                    </fig>
-                </annot>-->
+                </annot>
                 <annot n="4" type="introduction">
-                    <title>Zum Werk</title>
-                    <p>Beethovens achte Symphonie op. 93 entstand zwischen 1812 und 1817.
-                        Die ersten dazugehörigen Skizzen sind im sogenannten ‚Petter-Skizzenbuch‘ enthalten und waren zunächst (laut Brandenburg/Petter, S. 117–148), für ein Klavierkonzert gedacht, nicht für eine Symphonie.
-                        Eine erste, wegen des schlechten Gesundheitszustandes des Komponisten zunächst verschobene Durchspielprobe der ganzen Symphonie, fand am <date>21. April 1813</date> bei <ref>Erzherzog Rudolph</ref> in der Wiener Hofburg statt.
-                        Die erste öffentliche Aufführung ist für den <date>27. Februar 1814</date> im großen Redoutensaal in Wien belegt.
-                        Die Originalausgabe erschien frühestens Ostern 1817 bei <ref>Steiner &amp; Comp.</ref> in Wien.</p>
+                    <title>Erklärung der Variantenstelle</title>
+                    <p>Die Schlussbildung liegt in drei Varianten unterschiedlicher Länge vor, die handschriftlich sowohl durch die autographe Partitur (mit dem einzelnen, im Beethoven-Haus aufbewahrten Blatt) als auch durch die beiden erhaltenen Stimmenkopien bezeugt sind. 
+                        Die erste Version (<ref target="http://nagano.upb.de:29999/BW_op.93_Variante_A.pdf">Variante A</ref>: eine Übertragung der Variante ist über den Link als PDF-Datei zugänglich) befindet sich auf der Verso-Seite von Bl. 26 der Berliner Werkniederschrift und besteht aus fünf (gestrichenen) Takten. 
+                        Sie entspricht einem konzisen Versuch, der nur als ‚Gerüst‘ entwickelt wurde.
+                        Deshalb wurden nur die Streicher (Violine 1, 2, Bratschen und Bässe) ausgeführt; die Blasinstrumente fehlen.
+                        Die Doppelstriche am rechten Rand beweisen, dass es sich schon um eine echte Schluss-Formulierung handelt. 
+                        Diese Formulierung wurde ersetzt durch eine für das komplette Orchester niedergeschriebene zweite <ref target="http://nagano.upb.de:29999/BW_op.93_Variante_B.pdf">Variante B</ref> des Schlusses, die insgesamt zehn Takt lang ist und auf dem heute im Beethoven-Haus Bonn aufbewahrten Blatt notiert ist. 
+                        Nach dem offensichtlichen Ungültig-Erklären dieses Blattes durch Separierung vom Manuskript begann Beethoven eine dritte <ref target="http://nagano.upb.de:29999/BW_op.93_Variante_C.pdf">Variante C</ref> auf der recto-Seite des heutigen Bl. 27 des Berliner Manuskripts (die Blatt-Zählung wurde erst auf der Basis des endgültigen Zustands des Manuskripts vorgenommen).
+                        Die hier beginnende Variante erstreckt sich dann über sieben Seiten (insgesamt 42 Takte) bis zum Ende des Manuskripts (Bl. 27 recto – 30 recto). 
+                        Durch die gekoppelten Verweiszeichen „Vi=de“ setzte Beethoven die T. 331 auf Bl. 26 verso („Vi=“ – das gleiche Verweiszeichen ist schon auf Bl. 26 recto vorhanden; solche pleonastichen Verdoppelungen sind nicht selten in Beethovens Manuskripten zu finden) mit den T. 332 auf Bl. 27 recto („=de“) in Verbindung (diese Zeichen sind in der weiter unten verfügbaren Rekonstruktion des Schreibprozesses nicht sichtbar).
+                    </p>
+                    <p>Alle drei Varianten sind auch in den fragmentarisch erhaltenen Stimmen bezeugt: 
+                        Die in Paris aufbewahrte Stimme der Violine 1 bestätigt ihrerseits die erste Variante A, die auf Bl. 26 verso der Berliner Werkniederschrift unvollständig (ohne Blasinstrumente) geblieben war. 
+                        (Die im Pariser Manuskript am oberen Blattrand notierte Variante ist in diesem Fall aber nicht explizit gestrichen, sondern lediglich danach die endgültige Version eingetragen).
+                        Die Wiener Pauken-Stimme überliefert Variante B, die sich auf dem Bonner Einzelblatt befindet. 
+                        Diese Variante ist in der Pauken-Stimme allerdings durch eine ausgeprägte Streichung so überschrieben, dass sie nur mühsam zu entziffern ist. 
+                        Im Zuge dieser Streichung wurde Variante B durch Variante C ersetzt, die auf einem später hinzugefügten Zettel niedergeschrieben ist; der Anschluss ist durch einen „Vi=de“-Vermerk kenntlich. 
+                    </p>
                 </annot>
                 <annot n="5" type="introduction">
-                    <title>Zu den Quellen</title>
-                    <p>Die Werkniederschrift der Partitur befindet sich heute an zwei Standorten: Der erste, zweite und vierte Satz liegen in <ref>Berlin</ref> und der dritte in <ref>Krakau</ref>.
-                        Die Manuskriptteile sind nicht nur physisch geteilt, sondern weisen auch verschiedene Papiersorten auf. 
-                        Die untersuchte Variantenstelle befindet sich im Berliner Manuskript (Berlin, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv: Mus. ms. autogr. Beethoven 20/1) auf Bl. 26 verso – 30 recto.
-                        Ein dazu gehörendes, und ursprünglich zwischen Bl. 26 und 27 positioniertes Austauschblatt wird heute im <ref>Beethoven-Haus in Bonn</ref> aufbewahrt (Slg. H.C. Bodmer, HCB BMh 8/48). 
-                        Alle vorhandenen Varianten sind auch in den einzelnen handschriftlichen Stimmen überliefert, die exzerpiert worden sind, um die Durchspielprobe des Werks vornehmen zu können
-                        (erste Violine von Beethoven selbst abgeschrieben und fragmentarisch überliefert: Paris, Bibliothèque du Conservatorire, in: Bibliothèque nationale de France, Ms 19, recto) 
-                        und um die Originalausgabe herzustellen (Pauken: Wien, Gesellschaft der Musikfreunde, XIII 2457 Faszikel A).
-                    </p>
-                </annot>
-                <annot n="6" type="introduction">
-                    <title>Zur wissenschaftlichen Auseinandersetzung mit dem Werk</title>
-                    <p>Dass die letzten Takte des ersten Satzes der achten Symphonie revidiert wurden, ist für Beethoven-Spezialisten keine Neuigkeit. 
-                        <ref>Gustav Nottebohm</ref> berichtete als erster von einem ursprünglich kürzeren Schluss auf der Basis einer von Kopisten abgeschriebenen Pauken-Stimme (Nottebohm/Beethoveniana, S. 25). 
-                        Eben diese Variante wurde dann anhand der erwähnten Pauken-Stimme, des heute in Bonn aufbewahrten Austauschblattes und der Violin-Stimme in Paris von <ref>Alfred Orel</ref> untersucht (Orel/Op. 93, S. 50–53). 
-                        Da Nottebohms Transkription Fehler enthielt und die Quelle in Paris seinerzeit nicht zugänglich war, wurde die Variantenbildung nicht vollständig erklärt.
-                        Es wurde nur die Vermutung aufgestellt, die drei erwähnten Quellen könnten eine alternative und kürzere Fassung des Schlusses bezeugen; 
-                        von diesem Moment an war diese Stelle Grundlage zahlreicher Diskussionen in der Fachliteratur.
-                    </p>
-                </annot>
-                <annot n="7" type="introduction">
-                    <title>Erklärung der Variantenstelle</title>
-                    <p>Die erste <ref target="http://nagano.upb.de:29999/BW_op.93_Variante_A.pdf">Variante A</ref>, auf der Verso-Seite von Bl. 26 der Berliner Werkniederschrift, besteht aus fünf gestrichenen Takten. 
-                        Sie entspricht einem konzisen Versuch, der nur als ‚Gerüst‘ entwickelt wurde.
-                        Deshalb wurden nur die Streicher (erste Violine, zweite Violine, Bratschen und Bässe) ausgeführt; die Blasinstrumente fehlen.
-                        Die Doppelstriche am rechten Rand beweisen, dass es sich schon um eine echte Schluss-Formulierung handelt. 
-                        Die gekoppelten Verweiszeichen „Vi=de“ – die die T. 331 auf Bl. 26 verso mit den T. 332 auf Bl. 27 recto in Verbindung setzen – zeigen gleichzeitig, wie diese erste fünftaktige gestrichene Variante A durch eine neue, viel längere Variante ersetzt wurde. 
-                        Das Bonner Austauschblatt, das ursprünglich nach Bl. 26 der Werkniederschrift zu finden war, enthält die zweite <ref target="http://nagano.upb.de:29999/BW_op.93_Variante_B.pdf">Variante B</ref> des Schlusses, die insgesamt zehn Takte lang ist. 
-                        Die dritte <ref target="http://nagano.upb.de:29999/BW_op.93_Variante_C.pdf">Variante C</ref> befindet sich auf der Seite der Berliner Werkniederschrift, auf der die erste Variante A niedergeschrieben worden ist, und erstreckt sich über sieben Seiten (insgesamt 42 Takte) bis zum Ende des Manuskripts. 
-                    </p>
-                    <p>Alle drei Varianten sind dann in den einzelnen Stimmen bezeugt. 
-                        Die in Paris aufbewahrte Stimme der ersten Violine bestätigt ihrerseits die erste Variante A, die auf Bl. 26 verso der Berliner Werkniederschrift unvollständig (ohne Blasinstrumente) geblieben war. 
-                        Die Variante A ist in diesem Fall aber nicht explizit gestrichen. 
-                        Die Pauken-Stimme überliefert die zweite Variante B, die sich auch auf dem Austauschblatt befindet. 
-                        Diese Variante wird in den Pauken-Stimmen von einer ausgeprägten Streichung verdeckt. 
-                        <!-- MH: Der folgende Satz ist missverständlich, der hinzugefügte Zettel betrifft doch nur eine der beiden Quellen, oder? -->
-                        Variante C ist auch in beiden Quellen in den Pauken-Stimmen bezeugt, wurde aber auf einem später hinzugefügten Zettel niedergeschrieben.
-                    </p>
-                </annot>
-                <annot n="8" type="introduction">
                     <title>Schreibprozess</title>
-                    <p>Die erste Variante A wurde in der Berliner Werkniederschrift zuerst niedergeschrieben. 
-                        Anhand der Tintenfarbe ist zu vermuten, dass eine erste Stimme <!-- welche? --> niedergeschrieben und die anderen später ergänzt worden sind.
-                        Die Variante A wurde dann in einem unvollständigen Zustand belassen.
-                        Die zweite Variante B – deutlich länger als die erste – ist auf dem Bonner Austauschblatt überliefert. 
-                        Auch in diesem Fall kann man durch die unterschiedlichen Farbnuancen der Tinte mehrere Schreibschichten identifizieren, die teilweise als <ref>Progression</ref> und teilweise als <ref>Intervention</ref> aufzufassen sind. 
-                        Die dritte, endgültige Variante C ist wiederum in der Berliner Werkniederschrift zu finden und wie Variante B aus mehreren Schreibschichten entstanden, 
-                        die sowohl in Bezug auf <ref>Progression</ref> als auch <ref>Intervention</ref> zu verstehen sind. 
-                        Die hier beschriebene Variantenreihenfolge könnte also an einen linearen Revisionsprozess denken lassen, wobei jede Variante durch eine neue und längere ersetzt worden ist.
+                    <p>Die Variante A wurde in der Berliner Werkniederschrift eindeutig zuerst niedergeschrieben.
+                        Anhand der Tintenfarbe (wobei diese nicht immer eindeutig zu unterscheiden ist) ist zu vermuten, dass zunächst Violine 1, Violine 2 und Basse niedergeschrieben sind und die Bratsche (zumindest in Teilen) anschließend ergänzt worden ist.
+                        Die Variante A wurde dann in diesem unvollständigen Zustand ohne Bläser belassen.
+                        Die zweite, vollständig orchestrierte Variante B – deutlich länger als die erste – ist auf dem in Bonn überlieferten Einzelblatt dokumentiert.
+                        Auch in diesem Fall kann man durch die unterschiedlichen Farbnuancen der Tinte mehrere Schreibschichten identifizieren, die teilweise als <ref target="http://beethovens-werkstatt.de/glossary/progression/">Progression</ref> und teilweise als <ref target="http://beethovens-werkstatt.de/glossary/intervention/">Intervention</ref> aufzufassen sind. 
+                        Die dritte, endgültige Variante C in der Berliner Werkniederschrift setzt sich wiederum aus mehreren Schreibschichten (teils als Progression, teils als Intervention) zusammen.
+                        Die hier beschriebene Variantenreihenfolge könnte also an einen linearen Revisionsprozess denken lassen, wobei jede Variante durch eine neue und längere ersetzt worden ist. 
                     </p>
                     <fig>
                         <avFile xml:id="video1" target="http://nagano.upb.de:29999/video/BW_op.93_sequence1.mp4" mimetype="video/mp4"/>
-                        <caption>Rekonstruktion der Schreiboperationen: Seite 26 verso des Autographs und Seite recto des Austauschblattes sind leer. Variante A erscheint auf Seite 26 verso des Autographs, dann wird Seite 26 verso gestrichen. Variante B beginnt auf Seite recto des Austauschblattes, dann wird umgeblättert und Variante B komplett gezeigt. Das Austauschblatt wird herausgeschnitten und neue leere Blätter hinzugefügt. Seite 27 recto und ff. mit Variante C erscheinen.</caption>
+                        <caption>Rekonstruktion der Schreiboperationen: Ausgangspunkt: Seite 26 verso des Autographs und die recto-Seite des heute in Bonn aufbewahrten Blattes sind leer. 
+                            Variante A erscheint auf Seite 26 verso des Autographs, dann wird Seite 26 verso gestrichen. 
+                            Variante B beginnt auf der recto-Seite des Bonner Blattes und wird auf der verso-Seite komplettiert (sichtbar ist nur die recto-Seite). 
+                            Danach wurde dieses Blatt jedoch nicht mehr benutzt und auf noch weiteren leeren Blättern die neuerliche Variante C eingetragen.</caption> 
                     </fig>
-                    <p>Da Variante A in der Violinstimme nicht explizit gestrichen ist, müssen zwei Hypothesen auf der ganzen Schreibprozess-Ebene betrachtet werden: Entweder schrieb Beethoven Variante A ab, bevor diese in der Berliner Partitur gestrichen war – und nutzte das Blatt später nochmals, 
-                        um die Variante C für die gleiche Stimme zu fixieren –, oder er restituierte implizit die schon gestrichene Variante A und schrieb diese zusammen mit Variante C ab, als diese letzte Variante in die Partitur eingebracht worden war.
+                    <p>Unter Einbezug der beiden erhaltenen Stimmen müssen, da Variante A in der Violinstimme nicht explizit gestrichen ist, zwei Hypothesen auf der Schreibprozess-Ebene erwogen werden: Entweder kopierte Beethoven Variante A in die Violinstimme, bevor diese Variante in der Berliner Partitur gestrichen war – und nutzte das Blatt später nochmals, um die Variante C für die gleiche Stimme zu fixieren –, oder er restituierte implizit die schon gestrichene Variante A und schrieb diese zusammen mit Variante C ab, als diese letzte Variante in die Partitur eingebracht worden war. 
                         Die zweite Hypothese erscheint aufgrund zweier Details plausibler. 
-                        Das erste Detail befindet sich in der Violin-Stimme: Es geht um eine noch lesbare, aber ausgewischte Note, die als erstes Zeichen auf dem Blatt niedergeschrieben wurde – die <ref>Halbenote b2</ref>. 
+                        Das erste Detail befindet sich in der Violin-Stimme: Es geht um eine noch lesbare, aber ausgewischte Note, die als erstes Zeichen auf dem Blatt niedergeschrieben wurde – die Halbe b2. 
                         Sie entspricht der ersten Note von Variante C – nicht nur in Bezug auf die Tonhöhe, sondern auch auf die Dauer –, daher liegt es nahe, dass Beethoven schon beide Fassungen im Auge hatte, als er die Stimme abzuschreiben begann.
-                        Das zweite Detail befindet sich auf Bl. 26 verso der Berliner Werkniederschrift: Außer der auffälligen, mit Tinte vorgenommenen Streichung gibt es noch eine zweite blassere, mit Bleistift gezeichnete ‚Kreuzstreichung‘, die in einer ersten Phase provisorisch hinzugefügt worden sein könnte.
-                        Nach einer impliziten Restituierung der Variante und einer weiteren Prüfung, könnte dann die Streichung durch die Überschreibung mit Tinte bestätigt worden sein.
-                        Bezüglich der allgemeineren chronologischen Reihenfolge der Varianten wird durch diesen letzten Vergleich außerdem klar, dass ein Prozess – der scheinbar linear verlaufen ist – sich allmählich auf paralleler bzw. simultaner Ebene entwickelt hat.
+                        Das zweite Detail befindet sich auf Bl. 26 verso der Berliner Werkniederschrift: Außer der auffälligen, mit Tinte durch zwei schräge Striche vorgenommenen Streichung gibt es darunter noch eine zweite blassere, mit Bleistift gezeichnete Streichung in Form eines großen „X“, die in einer ersten Phase provisorisch hinzugefügt worden sein könnte. 
+                        <!-- FR: als Desiderata der Zukunft ich hätte hier gerne die erwähnten Details (ausgewischte Halbe b2, Streichung mit Tinte und Streichung mit Belistift) irgendwie verlinkt aber es ist wahrschinlich unmöglich, die erste Note hatte ich so referenziert: <ref target="#x8d0e6c82-3625-4587-96b6-5dde8cc33ec4">Halbe b2</ref>-->
+                        Nach einer impliziten Restituierung der Variante und einer weiteren Prüfung, könnte dann die Streichung durch die Überschreibung mit Tinte bestätigt worden sein. 
+                        Bezüglich der chronologischen Reihenfolge der Varianten wird durch diesen letzten Vergleich außerdem klar, dass ein Prozess – der scheinbar linear verlaufen ist – sich allmählich auf paralleler bzw. simultaner Ebene entwickelt haben könnte. 
                     </p>
                     <fig>
                         <avFile xml:id="video3" target="http://nagano.upb.de:29999/video/BW_op.93_sequence3.mp4" mimetype="video/mp4"/>
-                        <caption>Hypothetische Rekonstruktion der Schreiboperationen: Variante A ist im Autograph noch nicht gestrichen, auf der rechten Seite sind das 
-                            leere Austauschblatt und die Violinenstimme zu sehen. In der ersten Zeile des Blattes 
-                            der Violinenstimme wird  Variante A gezeigt. Im Autograph wird Variante A gestrichen, 
-                            Variante B im Austauschblatt gezeigt, welches danach verschwindet und Variante C auf Bl. 27 ff. gezeigt.</caption>
+                        <caption>Hypothetische Rekonstruktion der Schreiboperationen 1: Variante A ist im Autograph noch nicht gestrichen, auf der rechten Seite sind das 
+                            leere, ursprünglich folgende Blatt und die Violinstimme zu sehen. In der ersten Zeile des Blattes
+                            der Violinstimme wird Variante A eingetragen. Im Autograph wird Variante A gestrichen,
+                            Variante B im Bonner Blatt gezeigt, das danach verschwindet und dann Variante C auf Bl. 27 ff. sichtbar.</caption>
                     </fig>
                     <fig>
                         <avFile xml:id="video4" target="http://nagano.upb.de:29999/video/BW_op.93_sequence4.mp4" mimetype="video/mp4"/>
-                        <caption>Hypothetische Rekonstruktion der Schreiboperationen: Variante A wird im Autograph gestrichen, auf der rechten Seite steht nun schon Bl. 27 recto und die 
-                            vollständige Variante C. Gleichzeitig ist das Blatt mit der Violinenstimme leer. Dann wird Variante A (erste Zeile) 
-                            in der Violinenstimme eingeblendet, direkt danach auch die Variante C (ab Zeile 3 bis zum Ende).</caption>
+                        <caption>Hypothetische Rekonstruktion der Schreiboperationen 2: Variante A ist im Autograph gestrichen, auf der rechten Seite steht nun schon das spätere Bl. 27 recto
+                            mit der hier beginnenden Variante C. Gleichzeitig ist das Blatt mit der Violinstimme leer. Dann wird Variante A (erste Zeile)
+                            in der Violinstimme eingetragen, direkt danach auch die Variante C (ab Zeile 3 bis zum Ende).</caption>
                     </fig>
                 </annot>
-                <!-- FR: hier soll man due zwei video mit den zwei unterschiedlichen Hypothesen hinzufügen -->
-                <annot n="9" type="introduction">
+                <annot n="6" type="introduction">
                     <title>Kompositorisches Problem</title>
                     <p>Coda und Satzschlüsse sind von Beethoven im Vergleich zu anderen Formteilen eines Satzes auffallend häufig revidiert worden: 
                         Viele andere ähnliche Beispiele sind Beethoven-Forschern bekannt, in denen der Komponist gerade die Anzahl der Schlusstakte modifizierte. 
-                        Vermutlich suchte Beethoven an derartigen, stereotypen Formteilen nach Lösungen, die vom Gewöhnlichen und Regelkonformen abweichen. 
-                        Im Fall der betrachteten Variantenstelle war nicht nur die Länge des Schlusses in Beethovens Fokus (der auffällig vom Komponisten verändert worden ist), sondern auch die Möglichkeit, 
-                        eine ungewöhnliche Beziehung mit dem Beginn des ganzen Satzes herzustellen. 
-                        Dies wurde nur in der letzten Variante C durch T. 373 (gleich T. 1) realisiert.  
+                        Vermutlich suchte Beethoven an derartigen stereotypen Formteilen nach Lösungen, die vom Gewöhnlichen und Regelkonformen abweichen.
+                        Im Fall der betrachteten Variantenstelle war nicht nur die Länge des Schlusses in Beethovens Fokus, sondern auch die Möglichkeit, 
+                        eine ungewöhnliche Beziehung zum Beginn des ganzen Satzes herzustellen.
+                        Dies wurde erst in der letzten Variante C durch die beiden Schlusstakte, 
+                        die motivisch den Satzbeginn aufnehmen, realisiert. 
+                    </p>
+                </annot>
+                <annot n="7" type="introduction">
+                    <title>Ergänzende Erläuterungen zu den Zwischenstadien der Textualisierung</title>
+                    <p>Die zweite Variante B (auf dem Einzelblatt im Beethoven-Haus) wurde in unterschiedlichen Phasen niedergeschrieben, die teilweise noch rekonstruierbar sind. 
+                        Zuerst wurden die Stimmen der Violine 1 (T. 332B ff.) und der Flöten (ab T. 335B) niedergeschrieben (Schreibschicht B1). 
+                        Sowohl die Binnenvarianten (Schreibschicht B2) als auch die Ergänzung der anderen Stimmen (Schreibschicht B3) sind zu einem späteren Zeitpunkt hinzu gekommen; 
+                        in welcher Reihenfolge die beiden letzten Maßnahmen stattfanden, bleibt aber größtenteils fraglich.
+                    </p>
+                    <p>Die dritte, ausführlichste Variante C wurde ebenfalls in unterschiedlichen Phasen perfektioniert. 
+                        Die erkennbaren Binnenvarianten wurden in einer gegenwärtig nicht mehr rekonstruierbaren Reihenfolge hinzugefügt – deswegen wurden sie hier alle zu einer einzigen Schreibschicht (C2) zusammengefasst.
+                        Der unvollständige Text unter der Streichung von Schreibschicht B3 zeigt, dass offenbar auch auf diesen Seiten als Ausgangspunkt zuerst eine <ref target="http://beethovens-werkstatt.de/glossary/leitstimme/">Leitstimme</ref> niedergeschrieben wurde. 
+                        Die von Tintenfarbnuancen gebotenen <ref target="http://beethovens-werkstatt.de/glossary/metatext/">Metatexte</ref> reichen aber nicht aus, um eine solche Leitstimme eindeutig zu rekonstruieren.
+                    </p>
+                    <p> Der Duktus des auf Bl. 30 recto niedergeschriebenen Textes zeigt deutliche Spuren einer weiteren, nicht genau rekonstruierbaren Umarbeitungsphase, 
+                        in der im Verlauf eines Text-Erweiterungsprozesses mehrere Takte zwischen den schon vorhandenen eingefügt wurden.
+                    </p>
+                    <p>In der Wiener Paukenstimme wurde offensichtlich der II. Satz ausgeschrieben, bevor der mit Variante B endende I. Satz verändert wurde (d.h. zu dem Zeitpunkt als Satz I ausgeschrieben wurde, war das später beiseite gelegte Bonner Blatt noch enthalten und diese Version gültig). 
+                        Erst nach dem Ausschreiben des II. Satzes erfolgte die Anpassung an Variante C durch Streichung der Schlusstakte und Einfügung des neuen Schlusses auf einem eingefügten halben Blatt.
+                    </p>
+                </annot>
+                <annot n="11" type="introduction">
+                    <title>Literaturauswahl</title>
+                    <p>
+                        Appel, Bernhard R.: Satzschlüsse in Beethovens 8. Symphonie F-Dur op. 93, in: Von der Nullten bis zur Zehnten. Wege zu Beethovens Symphonien, 
+                        hg. von Michael Ladenburger und Bernhard R. Appel, Bonn 2008 (Begleitpublikationen zu Ausstellungen des Beethoven-Hauses, 19), S. 59–68.
+                        <bibl authURI="https://www.beethoven.de/sixcms/detail.php?id=&amp;template=opac_bibliothek_de&amp;_opac=kat_de.pl&amp;_dokid=bb:T00047180"/> 
+                    </p>
+                    <p>
+                        Brandenburg, Sieghard: Ein Skizzenbuch Beethovens aus dem Jahre 1812: zur Chronologie des Petterschen Skizzenbuches,
+                        in: Zu Beethoven. Aufsätze und Annotationen, hg. von Harry Goldschmidt, Berlin 1979, S. 117–148.
+                        <bibl authURI="https://www.beethoven.de/sixcms/detail.php?id=&amp;template=opac_bibliothek_de&amp;_opac=kat_de.pl&amp;_dokid=bb:T00007140"/> 
+                    </p>
+                    <p>
+                        Hess, Willy: Zum ursprünglichen Schluss des 1. Satzes von Beethovens Achter Sinfonie,
+                        in: Schweizerische Musikzeitung – Schweizer musikpädagogische Blätter, 101/2 (1961), S. 112–114. 
+                        <bibl authURI="https://www.beethoven.de/sixcms/detail.php?id=&amp;template=opac_bibliothek_de&amp;_opac=kat_de.pl&amp;_dokid=bb:T00034332"/>
+                    </p>
+                    <p>
+                        Kerman, Joseph: Notes on Beethoven’s Codas, in: Beethoven Studies, 3 (1982), S. 141–159.
+                        <bibl authURI="https://www.beethoven.de/sixcms/detail.php?id=&amp;template=opac_bibliothek_de&amp;_opac=kat_de.pl&amp;_dokid=bb:T00007197"/>
+                    </p>
+                    <p>
+                        Lockwood, Lewis: The Problem of Closure: Some Examples from the Middle-Period Chamber Music,
+                        in: Beethoven. Studies in the Creative Process, Cambridge 1992, S. 181–197.
+                        <bibl authURI="https://www.beethoven.de/sixcms/detail.php?id=&amp;template=opac_bibliothek_de&amp;_opac=kat_de.pl&amp;_dokid=bb:T00000100"/>
+                    </p>
+                    <p>
+                        Nottebohm, Gustav: Die Coda des ersten Satzes der achten Symphonie,
+                        in: Beethoveniana. Aufsätze und Mittheilungen von Gustav Nottebohm, Leipzig 1872, S. 25.
+                       <bibl authURI="https://www.beethoven.de/sixcms/detail.php?id=&amp;template=opac_bibliothek_de&amp;_opac=kat_de.pl&amp;_dokid=bb:T00002531"/>
+                    </p>
+                    <p>
+                        Nottebohm, Gustav: Skizzen zur 7. und 8. Symphonie, 
+                        in: Zweite Beethoveniana. Aufsätze und Mittheilungen von Gustav Nottebohm, Leipzig 1887, S. 101–118.
+                        <bibl authURI="https://www.beethoven.de/sixcms/detail.php?id=&amp;template=opac_bibliothek_de&amp;_opac=kat_de.pl&amp;_dokid=bb:T00000815"/>
+                    </p>
+                    <p>
+                        Orel, Alfred: Der ursprüngliche Schluß des 1. Satzes in Beethovens VIII. Sinfonie,
+                        in: Schweizerische Musikzeitung, 90/2 (1950), S. 50–53.
+                        <bibl authURI="https://www.beethoven.de/sixcms/detail.php?id=&amp;template=opac_bibliothek_de&amp;_opac=kat_de.pl&amp;_dokid=bb:T00035098"/>
                     </p>
                 </annot>
             </notesStmt>
@@ -195,7 +220,9 @@
                             <del xml:id="c843ee216-6009-466c-aca2-8749b432d97a" changeState="#stateC">
                                 <folium xml:id="new15c1b133-850f-43ba-87ab-9939a680f3a2" recto="#D-BNba_recto" verso="#D-BNba_verso" width="263" height="292" unit="mm"/>
                             </del>
-                            <folium recto="#D-B_fol27r" verso="#D-B_fol27v" width="245" height="318" unit="mm"/>
+                            <add xml:id="blattsoollerstinC1auftauchen" changeState="#stateC">
+                                <folium recto="#D-B_fol27r" verso="#D-B_fol27v" width="245" height="318" unit="mm"/>
+                            </add>
                             <folium recto="#D-B_fol28r" verso="#D-B_fol28v" width="245" height="318" unit="mm"/>
                             <folium recto="#D-B_fol29r" verso="#D-B_fol29v" width="245" height="318" unit="mm"/>
                             <folium recto="#D-B_fol30r" width="245" height="318" unit="mm"/>
@@ -320,27 +347,28 @@
                                         
                                     </relationList>
                                 </state>
-                                <state xml:id="stateB2" label="B2" follows="#stateB1" precedes="#stateB4" decls="#bwTerm_variant #bwTerm_containedVariant #bwTerm_closedVariant">
+                                <!-- Änderung des Namens stateB4 in stateX -->
+                                <state xml:id="stateB2" label="B2" follows="#stateB1" precedes="#stateX" decls="#bwTerm_variant #bwTerm_containedVariant #bwTerm_closedVariant">
                                     <relationList>
                                         
                                     </relationList>
                                 </state>
-                                <state xml:id="stateB3" label="B3" follows="#stateB1" precedes="#stateB4" decls="#bwTerm_progress">
+                                <state xml:id="stateB3" label="B3" follows="#stateB1" precedes="#stateX" decls="#bwTerm_progress">
                                     <relationList>
                                         
                                     </relationList>
                                 </state>
-                                <!--<state xml:id="stateB4" label="B4" follows="#stateB1" precedes="#stateB3" decls="#bwTerm_variant #bwTerm_containedVariant #bwTerm_closedVariant">
+                                <!--<state xml:id="stateX" label="X" follows="#stateB1" precedes="#stateB3" decls="#bwTerm_variant #bwTerm_containedVariant #bwTerm_closedVariant">
                                     <relationList>
                                         
                                     </relationList>
                                 </state>-->
-                                <state xml:id="stateB4" label="B4" follows="#stateB2 #stateB3" decls="#bwTerm_variant #bwTerm_containedVariant #bwTerm_closedVariant">
+                                <state xml:id="stateX" label="X" follows="#stateB2 #stateB3" decls="#bwTerm_variant #bwTerm_containedVariant #bwTerm_closedVariant">
                                     <relationList>
                                         
                                     </relationList>
                                 </state>
-                                <!--<state xml:id="stateC" label="C" follows="#stateB4 #stateB5" decls="#bwTerm_variant #bwTerm_mixedContent">
+                                <!--<state xml:id="stateC" label="C" follows="#stateX #stateB5" decls="#bwTerm_variant #bwTerm_mixedContent">
                                 <relationList/>
                             </state>-->
                         <!-- 
@@ -350,7 +378,7 @@
                                 </relationList>
                             </state>
  -->
-                                <state xml:id="stateC" label="C1" follows="#stateB4" decls="#bwTerm_variant #bwTerm_mixedContent">
+                                <state xml:id="stateC" label="C1" follows="#stateX" decls="#bwTerm_variant #bwTerm_mixedContent">
                                     <relationList>
                                         
                                     </relationList>
@@ -365,11 +393,9 @@
                                         
                                     </relationList>
                                 </state>
-                                
                                 <state xml:id="statePreC" label="C4" follows="#stateC_internal1 #stateC_internal2" next="#stateC5">
                                     <relationList/>
-                                </state>    
-                                
+                                </state>
                                 <state xml:id="stateC5" label="C5" prev="#stateC4">
                                     <relationList/>
                                 </state>    
@@ -872,35 +898,36 @@
                     <scoreDef xml:id="x8715138a-ad0a-466c-9974-403d4322b3db" meter.count="3" meter.unit="4">
                         <staffGrp xml:id="xb04c90ea-48db-4d62-bdfb-61a64a3948a3">
                             <staffGrp xml:id="x9e08d58b-c3db-4971-b32b-c1b8ffda8fec" n="1" symbol="bracket">
-                                <staffDef xml:id="x8248d0c0-9b4f-4bb0-bf51-537608ac42a7" n="1" label="Fl. I II" lines="5" key.sig="1f" clef.line="2" clef.shape="G"/>
-                                <staffDef xml:id="xd12bcc06-2299-41b5-9d2b-f864df8f3f29" n="2" label="Ob. I II" lines="5" clef.line="2" clef.shape="G" key.sig="1f"/>
-                                <staffDef xml:id="xb43c843b-d095-4640-8759-f3e1abc99cbd" n="3" label="Clar. (Sib) I II" lines="5" clef.line="2" clef.shape="G" key.sig="1s"/>
-                                <staffDef xml:id="xff935be2-9405-42d5-93d9-ad3118c7af74" n="4" label="Fag I II" lines="5" clef.line="3" clef.shape="C" key.sig="1f"/>
+                                <staffDef xml:id="x8248d0c0-9b4f-4bb0-bf51-537608ac42a7" n="1" label="Fl" lines="5" key.sig="1f" clef.line="2" clef.shape="G"/>
+                                <staffDef xml:id="xd12bcc06-2299-41b5-9d2b-f864df8f3f29" n="2" label="Ob" lines="5" clef.line="2" clef.shape="G" key.sig="1f"/>
+                                <staffDef xml:id="xb43c843b-d095-4640-8759-f3e1abc99cbd" n="3" label="Clar (B)" lines="5" clef.line="2" clef.shape="G" key.sig="1s"/>
+                                <staffDef xml:id="xff935be2-9405-42d5-93d9-ad3118c7af74" n="4" label="Fg" lines="5" clef.line="3" clef.shape="C" key.sig="1f"/>
                             </staffGrp>
                             <staffGrp xml:id="xfe284f56-bee3-4277-b5d4-2c2fb0e04bb6" n="2" symbol="bracket">
-                                <staffDef xml:id="xf9c0223c-35c0-43ac-b30b-d8f16472c45b" n="5" label="Cor. I II" lines="5" clef.line="2" clef.shape="G"/>
-                                <staffDef xml:id="x0941b272-a3d5-445a-8c32-6ca597783bde" n="6" label="Clno (Fa) I II" lines="5" clef.line="2" clef.shape="G"/>
+                                <staffDef xml:id="xf9c0223c-35c0-43ac-b30b-d8f16472c45b" n="5" label="Cor (F)" lines="5" clef.line="2" clef.shape="G"/>
+                                <staffDef xml:id="x0941b272-a3d5-445a-8c32-6ca597783bde" n="6" label="Trb (F)" lines="5" clef.line="2" clef.shape="G"/>
                             </staffGrp>
-                            <staffDef xml:id="xde82da5c-0e6c-4bcc-b964-8bf60d79a47c" n="7" label="Timp." lines="5" clef.line="4" clef.shape="F"/>
+                            <staffDef xml:id="xde82da5c-0e6c-4bcc-b964-8bf60d79a47c" n="7" label="Timp" lines="5" clef.line="4" clef.shape="F"/>
                             <staffGrp xml:id="x59a5c316-ec21-403c-afb2-6762aac29d44" n="3" symbol="bracket">
-                                <staffGrp xml:id="x090d2ca1-eb6d-48c9-b009-39fc777b0636" n="4" symbol="brace" label="Viol.">
-                                    <staffDef xml:id="x5ae59276-f94c-4fbc-93b2-9fe1eed73a05" n="8" lines="5" clef.line="2" label="I" clef.shape="G" key.sig="1f"/>
-                                    <staffDef xml:id="xa338a783-fde0-4e40-964f-d89fa1902d65" n="9" lines="5" clef.line="2" label="II" clef.shape="G" key.sig="1f"/>
+                                <staffGrp xml:id="x090d2ca1-eb6d-48c9-b009-39fc777b0636" n="4" symbol="brace">
+                                    <staffDef xml:id="x5ae59276-f94c-4fbc-93b2-9fe1eed73a05" n="8" lines="5" clef.line="2" label="V I" clef.shape="G" key.sig="1f"/>
+                                    <staffDef xml:id="xa338a783-fde0-4e40-964f-d89fa1902d65" n="9" lines="5" clef.line="2" label="V II" clef.shape="G" key.sig="1f"/>
                                 </staffGrp>
-                                <staffDef xml:id="x87bd22ab-7cab-4dad-b90a-905c65443c37" n="10" label="Vle." lines="5" clef.line="3" clef.shape="C" key.sig="1f"/>
-                                <staffDef xml:id="x0954f032-7bd9-42aa-ba46-5c6df86a3408" n="11" label="Vc. e B." lines="5" clef.line="4" clef.shape="F" key.sig="1f"/>
+                                <staffDef xml:id="x87bd22ab-7cab-4dad-b90a-905c65443c37" n="10" label="Va." lines="5" clef.line="3" clef.shape="C" key.sig="1f"/>
+                                <staffDef xml:id="x0954f032-7bd9-42aa-ba46-5c6df86a3408" n="11" label="Vc" lines="5" clef.line="4" clef.shape="F" key.sig="1f"/>
                             </staffGrp>
                             <!-- ab zweitem System auf der ersten Seite -->
-                            <staffDef xml:id="x93fff4a8-67cd-48e5-9e39-1aab57ad8633" n="12" lines="5" clef.line="4" clef.shape="F" key.sig="1f"/>
+                            <staffDef xml:id="x93fff4a8-67cd-48e5-9e39-1aab57ad8633" n="12" lines="5" clef.line="4" clef.shape="F" key.sig="1f" label="Cb"/>
                         </staffGrp>
                     </scoreDef>
                     <section xml:id="x21d0ffb6-a65a-41f8-84a9-cc710e412f87">
 
 
                         <!-- ANFANG TEXTNARBE -->
+                        <!-- MH: ich habe die changeState-Attribute von A1 und A2 einfach ausgetauscht, bin aber nicht sicher, ob das so funktioniert… -->
                         <del xml:id="ca06348cc-71b2-42fc-9d75-33d44ccbe8a5" changeState="#stateB1" facs="#shape_7ffdb981-4f25-4599-863f-dfb300e7160e #shape_33a367c1-793c-4afb-8c25-43810e1d182f #shape_a0536e76-65f9-4af4-b01c-eda35c0e2c79 #shape_4bab71d9-5619-4128-baa9-51f7b6e79eda #shape_3589e523-41f5-4592-aa92-f9bd8a415ed3 #shape_de0bf203-a5b9-4f25-97be-ddcc1c102957 #shape_c93741ca-6abd-49be-9fd3-0126c1ecb7b2">
                                 <!-- A: fol26v, 1.Takt -->
-                            <add xml:id="c4bf772ac-3158-4f89-8de0-8d163ef55a39" changeState="#stateA1">
+                            <add xml:id="c4bf772ac-3158-4f89-8de0-8d163ef55a39" changeState="#stateA2">
                                 <measure xml:id="x3e7c884a-f2a1-49d4-9dc0-c92e0cc59539" n="332A" label="332A" facs="#shape_4807c9c5-df6c-4673-9c9e-034e3dba1c70 #shape_118568f2-4229-4509-b419-2c07a7603853 #shape_bcc7bd92-f16d-4195-a947-f50f1cc66798">
                                     <staff xml:id="xeaa3c385-5204-40ee-acf2-f24dec427f71" n="1">
                                         <layer xml:id="xedad9ebd-0c1e-45fe-a648-ba4a7df49f3d">
@@ -939,10 +966,10 @@
                                     </staff>
                                     <staff xml:id="xb540d9ff-7b0d-4e60-8e8e-53d2ef83e66c" n="8">
                                         <layer xml:id="x57d9de64-a410-4c51-adff-0693c3ef6dfc" n="1">
-                                            <del xml:id="c098fbe44-e38c-4d15-a5d5-a45508eb3fa5" changeState="#stateA2">
+                                            <del xml:id="c098fbe44-e38c-4d15-a5d5-a45508eb3fa5" changeState="#stateA1">
                                                 <mSpace xml:id="x6bd11ba6-5350-4465-bd8e-7c12b1e47208"/>
                                             </del>
-                                            <add xml:id="cb136f827-83f0-46cc-9d97-7c1a8fad056a" changeState="#stateA2">
+                                            <add xml:id="cb136f827-83f0-46cc-9d97-7c1a8fad056a" changeState="#stateA1">
                                                 <beam xml:id="x9ce4b67c-7b40-469d-bbd9-4888f5811532" facs="#shape_fce49d7e-2266-4579-bb01-f55f21f71f2b #shape_df3ea0ad-2347-45b2-b738-60d1507a5e42">
                                                     <chord xml:id="xcf8d8e03-3c67-44c4-960c-7df17bbcb4f0" dur="16" stem.dir="down" facs="#shape_4c077aa6-f5c2-442b-a646-522514623887 #shape_496c064f-6efd-468e-91e7-64a65bac6036 #shape_85478e34-06e8-4cca-9f22-ecca68f25596">
                                                         <note xml:id="x58791fc6-24f8-4dc2-a02e-3c6d8eb8a6d8" pname="a" oct="5"/>
@@ -978,10 +1005,10 @@
                                     </staff>
                                     <staff xml:id="x54a1fb97-f5fd-4634-94aa-2f27b1e00c35" n="9">
                                         <layer xml:id="x1ca76794-1afa-4b2d-9b37-c239672cdcc6">
-                                            <del xml:id="c648838a6-4665-4635-964e-9ca829bd38bd" changeState="#stateA2">
+                                            <del xml:id="c648838a6-4665-4635-964e-9ca829bd38bd" changeState="#stateA1">
                                                 <mSpace xml:id="xcda17124-c231-4446-b9f9-549b0b7d410d"/>
                                             </del>
-                                            <add xml:id="cf4bc62e0-883e-442c-83ce-809355628496" changeState="#stateA2">
+                                            <add xml:id="cf4bc62e0-883e-442c-83ce-809355628496" changeState="#stateA1">
                                                 <beam xml:id="x5377368c-c3d1-4989-99f3-c3f2e8ac3df0" facs="#shape_d84970f2-a837-4610-afd5-663bc03213d6 #shape_f83fdae7-fe33-448c-8ca9-7104bd672bdb">
                                                     <note xml:id="x6cb32683-c595-4505-970d-b4273f1508e7" pname="f" oct="5" dur="16" stem.dir="down" facs="#shape_a71769de-46b7-4ed9-9d6c-335e1d4d8af5"/>
                                                     <note xml:id="x59b8972b-369f-4f28-ad57-aef1101ff4ca" pname="f" oct="5" dur="16" stem.dir="down" facs="#shape_e1a3af7c-0c0d-463c-9a89-c84d1a835b56"/>
@@ -1032,10 +1059,10 @@
                                     </staff>
                                     <staff xml:id="x293e774a-ffb8-4c05-ac14-e93ff954f02c" n="12">
                                         <layer xml:id="x7cfa7df9-0385-4cd2-a82c-07d9537025c9">
-                                            <del xml:id="c64f242f8-e7d7-49af-a98b-3c67fef12030" changeState="#stateA2">
+                                            <del xml:id="c64f242f8-e7d7-49af-a98b-3c67fef12030" changeState="#stateA1">
                                                 <mSpace xml:id="xcdf3d54d-b03a-4876-bf2f-14a6802c6286"/>
                                             </del>
-                                            <add xml:id="c37e6d804-520d-4638-a8dd-eaf2908161d9" changeState="#stateA2">
+                                            <add xml:id="c37e6d804-520d-4638-a8dd-eaf2908161d9" changeState="#stateA1">
                                                 <beam xml:id="x19c10f6d-01a0-41ea-8214-3fa18a7234ef" facs="#shape_c36094c1-7647-4403-9b83-4af8f3b96c8b">
                                                     <note xml:id="x21d943ef-1ad2-4518-bceb-91c122a15fe2" pname="f" oct="2" dur="8" stem.dir="down" facs="#shape_4a303903-6138-41af-9777-034ddf7ef1c8"/>
                                                     <note xml:id="x88c4a9dc-6876-4d73-aa24-bb4bab2834a3" pname="f" oct="2" dur="8" stem.dir="down" facs="#shape_21510a06-d814-4711-bb08-675c335fd44f"/>
@@ -1049,7 +1076,9 @@
                                             </add>
                                         </layer>
                                     </staff>
-                                    <metamark xml:id="x91eb007a-c23b-462d-9884-ea62514ba183" staff="1" place="above" tstamp="1" facs="#shape_2c860071-0a94-4f8f-bd9d-8687da6582f3 #shape_a9e8fad6-bab0-42cc-b122-23bbe50cfd7d #shape_db8eb0f8-14a5-45d4-b611-b7b97ff4b1d0 #shape_51caaf15-9113-4bc8-8fae-ff5d09eafc26 #shape_6f1911ed-3aa9-442b-b78a-fbd9c8830536">Vi=</metamark>
+                                    <add xml:id="holladieWaldfee" changeState="#stateC">
+                                        <metamark xml:id="x91eb007a-c23b-462d-9884-ea62514ba183" staff="1" place="above" tstamp="1" facs="#shape_2c860071-0a94-4f8f-bd9d-8687da6582f3 #shape_a9e8fad6-bab0-42cc-b122-23bbe50cfd7d #shape_db8eb0f8-14a5-45d4-b611-b7b97ff4b1d0 #shape_51caaf15-9113-4bc8-8fae-ff5d09eafc26 #shape_6f1911ed-3aa9-442b-b78a-fbd9c8830536">Vi=</metamark>
+                                    </add>
                                 </measure>
                                     <!-- A: fol26v, 2.Takt -->
                                 <measure xml:id="x77019d17-a2cb-4755-8852-f0a7a956cd40" n="333A" label="333A" facs="#shape_118568f2-4229-4509-b419-2c07a7603853 #shape_bcc7bd92-f16d-4195-a947-f50f1cc66798 #shape_543f963b-613e-42b2-9ca2-6b2d93af835c">
@@ -1090,10 +1119,10 @@
                                     </staff>
                                     <staff xml:id="x83d921b6-d31c-4af6-81c5-452e3a58b3a3" n="8">
                                         <layer xml:id="x448eb6a6-9f9d-4cda-9465-4689bb956084" n="1">
-                                            <del xml:id="cab945bb1-4f6e-47a9-b5c4-3d100d873f08" changeState="#stateA2">
+                                            <del xml:id="cab945bb1-4f6e-47a9-b5c4-3d100d873f08" changeState="#stateA1">
                                                 <mSpace xml:id="xee6e4b2c-4653-45d1-8e54-7742d5d160fc"/>
                                             </del>
-                                            <add xml:id="c7a95e960-7495-49bc-84dd-86782ef3c2be" changeState="#stateA2">
+                                            <add xml:id="c7a95e960-7495-49bc-84dd-86782ef3c2be" changeState="#stateA1">
                                                 <chord xml:id="x9848a87e-bb3a-47d0-b6b6-86935353f25e" dur="4" stem.dir="down" facs="#shape_c8eded1c-96f9-4178-abe8-8884e81289da #shape_288f1cd6-f8fe-44b2-9a78-49cfcf6d362d">
                                                     <note xml:id="xcb3361b8-eb57-44dc-a2b1-c847b2be2423" pname="a" oct="5"/>
                                                     <note xml:id="xd24fe716-4a5e-4875-abdc-8ccd91aa769a" pname="a" oct="4"/>
@@ -1105,10 +1134,10 @@
                                     </staff>
                                     <staff xml:id="x746b5032-0cf8-420a-a831-ca4dad269f55" n="9">
                                         <layer xml:id="x206dd22d-b46e-49bd-9de8-85b0fc71e131">
-                                            <del xml:id="c4e41872e-a8ec-4785-af3c-e8dd06bce925" changeState="#stateA2">
+                                            <del xml:id="c4e41872e-a8ec-4785-af3c-e8dd06bce925" changeState="#stateA1">
                                                 <mSpace xml:id="x086bc94d-e8dc-4e8f-8935-1a9f0cdc1a19"/>
                                             </del>
-                                            <add xml:id="c0bc5e007-ef9a-41fb-a30b-c0f7f74e0724" changeState="#stateA2">
+                                            <add xml:id="c0bc5e007-ef9a-41fb-a30b-c0f7f74e0724" changeState="#stateA1">
                                                 <chord xml:id="x6d4fb353-985d-444b-9a87-7e90a4c48525" dur="4" stem.dir="down" facs="#shape_fb454ca4-1b25-4e9f-b282-3866327b462a #shape_d59ee38d-6565-43d4-bec4-e20a4317b07b #shape_d8468e03-d25f-4c84-a099-055454dd6abb #shape_9a42b799-f3f9-45da-8b65-90f7b113e67b">
                                                     <note xml:id="x3ac4685a-f1dd-456e-b0c1-937d93b28236" pname="a" oct="5"/>
                                                     <note xml:id="x7578cb59-ca02-4368-9a12-a04fe23dad39" pname="c" oct="5"/>
@@ -1132,10 +1161,10 @@
                                     </staff>
                                     <staff xml:id="x14a1698f-1076-42d4-8c3a-3fb5e9ea90b6" n="12">
                                         <layer xml:id="xfbc82f39-2658-4e9c-ba41-d8db3f9e55d7">
-                                            <del xml:id="ca1908c7f-aab8-4a07-aee4-6425b97fc572" changeState="#stateA2">
+                                            <del xml:id="ca1908c7f-aab8-4a07-aee4-6425b97fc572" changeState="#stateA1">
                                                 <mSpace xml:id="x04bee536-101d-4398-b4c0-0241a424f9f7"/>
                                             </del>
-                                            <add xml:id="c4d0884b0-d19c-42de-9729-fc8712f97b85" changeState="#stateA2">
+                                            <add xml:id="c4d0884b0-d19c-42de-9729-fc8712f97b85" changeState="#stateA1">
                                                 <note xml:id="x16ac1aa2-edc7-4838-9b28-572267fada3a" pname="f" oct="2" dur="4" stem.dir="up" facs="#shape_8ff96131-897f-496f-b7b4-bc9a8cf28a89 #shape_4a52c7bf-6098-404e-b578-ed5e729c905d"/>
                                                 <rest xml:id="x84957f9d-ae23-44a5-8066-544e920c289f" dur="4" facs="#shape_920bcbae-62aa-46e4-9dbf-5e53801a9f1f #shape_3aa3d587-8d72-4f71-bddd-dc91d9162277"/>
                                                 <rest xml:id="x392ce987-30d9-472c-b4fa-a3bc91e6c24e" dur="4" facs="#shape_64192a1f-4fe0-4120-9adb-6b52784fb237"/>
@@ -1182,10 +1211,10 @@
                                     </staff>
                                     <staff xml:id="x9b2e314b-e8f1-4c9e-87ee-3340d18f89df" n="8">
                                         <layer xml:id="x4fafd750-2c17-4c1f-9de5-0dd73c8111fe" n="1">
-                                            <del xml:id="ce12aba65-3cc7-40bf-b10e-0861f0e2fde6" changeState="#stateA2">
+                                            <del xml:id="ce12aba65-3cc7-40bf-b10e-0861f0e2fde6" changeState="#stateA1">
                                                 <mSpace xml:id="x4f06beee-6044-46fa-a07d-62b6f0cad9a7"/>
                                             </del>
-                                            <add xml:id="c0d41f72c-a000-46a7-a818-030ca7ac54c4" changeState="#stateA2">
+                                            <add xml:id="c0d41f72c-a000-46a7-a818-030ca7ac54c4" changeState="#stateA1">
                                                 <chord xml:id="x7a842a43-c061-4d16-948d-98798c5cd6ff" dur="4" stem.dir="down" facs="#shape_61423549-231d-423f-9d48-d1472ce2948d #shape_0224da82-b925-4ab0-8c07-e8d6eae91386 #shape_5457ba69-7c26-4f63-b2f7-2172a41d19b6">
                                                     <note xml:id="xee5264fe-ac34-4de0-80fc-372124a26d57" pname="c" oct="6"/>
                                                     <note xml:id="x2df3ebdc-247a-4a1c-89ea-22dacc3ecd90" pname="e" oct="5"/>
@@ -1219,17 +1248,17 @@
                                     </staff>
                                     <staff xml:id="x9fc66542-b824-4d5f-b2f2-49ead3ae48ba" n="12">
                                         <layer xml:id="xe6bc153e-7199-4aaa-8135-33ce80a52149">
-                                            <del xml:id="cdc8cdb0e-b40c-4542-97e8-bfe5ca64f1bb" changeState="#stateA2">
+                                            <del xml:id="cdc8cdb0e-b40c-4542-97e8-bfe5ca64f1bb" changeState="#stateA1">
                                                 <mSpace xml:id="xae3a11e9-1de7-47ae-a818-b8793dc6e75a"/>
                                             </del>
-                                            <add xml:id="cd1da1117-c687-4b1a-8d57-1708ebf0e73d" changeState="#stateA2">
+                                            <add xml:id="cd1da1117-c687-4b1a-8d57-1708ebf0e73d" changeState="#stateA1">
                                                 <note xml:id="x0778cfba-cb08-400d-9221-46fa54c106bd" pname="c" oct="3" dur="4" stem.dir="up" facs="#shape_47d60f61-117a-4e25-b57e-580e54182a5e #shape_b487e290-a567-4f5a-ac5b-44f431b7f0f7"/>
                                                 <rest xml:id="xf8f5b774-603e-4770-b97c-404761475ccc" dur="4" facs="#shape_7759d14b-8939-480b-8499-2227d9eb9055"/>
                                                 <rest xml:id="x92d4a5f9-3f82-43a5-81c8-7a76ea299e2f" dur="4" facs="#shape_3188d210-c81d-4706-b031-f81bb3b0a03e"/>
                                             </add>
                                         </layer>
                                     </staff>
-                                    <add xml:id="ca3054e16-74a1-49a7-9f49-ef5b6abb78e8" changeState="#stateA2">
+                                    <add xml:id="ca3054e16-74a1-49a7-9f49-ef5b6abb78e8" changeState="#stateA1">
                                         <cpMark xml:id="x7c7f26c3-fb4b-479c-aa66-9c4f4767232d" staff="9" tstamp="1" tstamp2="2m+3" place="within" ref.staff="8" facs="#shape_0f1f8866-93ef-4b61-bf31-11fda62677eb #shape_e56df627-3c8e-41cb-9e32-e7f1a7a64d86 #shape_eb1310ce-0ba5-49ad-aef7-bdecc81843ac #shape_490732cc-c338-462d-88ec-4c352bde81c9 #shape_2b3b1b24-0b76-44c7-99a7-c1f6119a1969 #shape_4f5e7c39-fc8e-4ae9-9ef0-0ff7e1a26736">unis:</cpMark>
                                     </add>
                                 </measure>
@@ -1272,10 +1301,10 @@
                                     </staff>
                                     <staff xml:id="x3edad528-aa9e-48e0-b8ba-d529cdc7455f" n="8">
                                         <layer xml:id="x03e8dfb2-8857-4935-8c66-3a39f4d03b1f" n="1">
-                                            <del xml:id="ce8a79f6a-103b-4737-ac21-6a9f34ad27c0" changeState="#stateA2">
+                                            <del xml:id="ce8a79f6a-103b-4737-ac21-6a9f34ad27c0" changeState="#stateA1">
                                                 <mSpace xml:id="x0c49c13f-05f0-4a47-8a51-36c1c057b230"/>
                                             </del>
-                                            <add xml:id="c5d8b2e9f-d685-4a17-900a-d90c70c3a149" changeState="#stateA2">
+                                            <add xml:id="c5d8b2e9f-d685-4a17-900a-d90c70c3a149" changeState="#stateA1">
                                                 <chord xml:id="x81ff7a75-eaad-437c-9b3c-5474f926140f" dur="4" stem.dir="down" facs="#shape_6a0d3bb0-6f84-4342-be13-38962931716c #shape_fc895c90-800d-40d2-99dd-f8f698257c85 #shape_bc5b2937-4517-4b01-87c4-721a01f2d255">
                                                     <note xml:id="xca7a030a-7235-4c2b-b300-9d60b697dbc7" pname="a" oct="5"/>
                                                     <note xml:id="x16137ad9-a8a4-4e35-94f9-82a00769f451" pname="c" oct="5"/>
@@ -1315,10 +1344,10 @@
                                     </staff>
                                     <staff xml:id="x1cf42840-5576-49de-8923-9362a57267ee" n="12">
                                         <layer xml:id="x6daf4578-566f-4b1f-8bfe-9d78b3dc7fc4">
-                                            <del xml:id="cc41b0a8f-d5a2-4caa-9637-8f360cb6e00f" changeState="#stateA2">
+                                            <del xml:id="cc41b0a8f-d5a2-4caa-9637-8f360cb6e00f" changeState="#stateA1">
                                                 <mSpace xml:id="x69372b47-c091-4131-81d2-a8c63bf37efe"/>
                                             </del>
-                                            <add xml:id="cad57505a-9211-4ceb-91f0-c144d226bdb5" changeState="#stateA2">
+                                            <add xml:id="cad57505a-9211-4ceb-91f0-c144d226bdb5" changeState="#stateA1">
                                                 <note xml:id="x3c623f82-35e3-466d-9ee8-09a260974a63" pname="f" oct="3" dur="4" stem.dir="down" facs="#shape_3a0397d9-2a59-4c60-bf31-3d9607289bd3"/>
                                                 <note xml:id="xa88d2712-1471-42bc-a302-f2ada15843e0" pname="f" oct="2" dur="4" stem.dir="up" facs="#shape_385c3cb2-da09-4c94-b950-44474cb741ac #shape_aad52e36-f549-40f3-9cff-e813cfe402ca"/>
                                                 <note xml:id="x63cfe959-9cf9-412f-955e-646c5632155b" pname="f" oct="2" dur="4" stem.dir="up" facs="#shape_831c216b-dba5-4aa3-aaf1-69459b0be992 #shape_20272f2c-3048-407d-8031-78fa542016da"/>
@@ -1365,10 +1394,10 @@
                                     </staff>
                                     <staff xml:id="x0bd61248-9244-42fa-9544-8b98e81a9b27" n="8">
                                         <layer xml:id="x70e24b70-8f5f-4601-a7f8-f8ae72941828" n="1">
-                                            <del xml:id="c88c24659-d79b-46ea-aca2-88d80c388506" changeState="#stateA2">
+                                            <del xml:id="c88c24659-d79b-46ea-aca2-88d80c388506" changeState="#stateA1">
                                                 <mSpace xml:id="x0db60fc7-059d-4e59-9874-9ab030acf18a"/>
                                             </del>
-                                            <add xml:id="c1292f1ba-cf36-46f9-ac68-738c0c744eec" changeState="#stateA2">
+                                            <add xml:id="c1292f1ba-cf36-46f9-ac68-738c0c744eec" changeState="#stateA1">
                                                 <chord xml:id="x68f4c627-335f-4f11-be5a-93a841a0447b" dur="4" stem.dir="down" facs="#shape_aebd2f2e-f268-432c-9984-ca5078bf0bed #shape_9c7525cb-5184-47c4-86af-b606f5b560f3 #shape_e80ff510-0770-4aef-a047-14649df00fd4 #shape_1b45f67a-1834-4036-84e5-2bfa011746d2">
                                                     <note xml:id="x4531d213-5647-416e-a8f2-17afe20ead77" pname="f" oct="4"/>
                                                     <note xml:id="x7c108c5c-ef2d-49d6-9d09-2789b8b49a0a" pname="a" oct="3"/>
@@ -1382,7 +1411,7 @@
                                     <staff xml:id="x724e9ac0-9f19-41a1-a8de-02a65e4d68c3" n="9">
                                         <layer xml:id="x68b7cda9-9fee-4fb4-a665-28b50036c716">
                                             <mSpace xml:id="xfb9fcf2f-7a5f-4488-8137-b0ac6c645b6f"/>
-                                            <add xml:id="cef7ee17d-579f-492a-a6b9-c5cf9b44e7af" changeState="#stateA2">
+                                            <add xml:id="cef7ee17d-579f-492a-a6b9-c5cf9b44e7af" changeState="#stateA1">
                                                 <barLine xml:id="x015259db-8209-49a5-aa25-df8963cc2946" rend="end" facs="#shape_c81fc60c-dee8-430f-b6e0-5a763d6c99c5"/>
                                             </add>
                                         </layer>
@@ -1390,7 +1419,7 @@
                                     <staff xml:id="xdcff2d26-86d5-4bfa-9ed0-63356e3c3af6" n="10">
                                         <layer xml:id="x92ba8935-d0a1-49e5-a80b-901f80aa8bce" n="1">
                                             <mSpace xml:id="xadb02004-8bbe-44f0-9d0a-264bd23faf54"/>
-                                            <add xml:id="cda3552a0-c111-4c01-aa0a-6da91068d753" changeState="#stateA2">
+                                            <add xml:id="cda3552a0-c111-4c01-aa0a-6da91068d753" changeState="#stateA1">
                                                 <barLine xml:id="x6b3a5473-e5eb-4c50-901a-7efed64e25b9" rend="end" facs="#shape_0dc0e426-fbac-42f3-b1fb-65d5d5091e28"/>
                                             </add>
                                         </layer>
@@ -1398,17 +1427,17 @@
                                     <staff xml:id="xa94f5763-c2e3-46bf-ab50-dae9fad28ced" n="11">
                                         <layer xml:id="xae13d438-ded2-4a07-b876-26a0e354a823">
                                             <mSpace xml:id="x2919a28a-1501-4f93-a77e-dee98b07a127"/>
-                                            <add xml:id="c0c318254-eac6-444e-af1e-19713ffa99d0" changeState="#stateA2">
+                                            <add xml:id="c0c318254-eac6-444e-af1e-19713ffa99d0" changeState="#stateA1">
                                                 <barLine xml:id="x6dfa6086-b6a1-4150-ab65-2fa35708d386" rend="end" facs="#shape_e5aa06fe-9624-45a6-a68e-8b22b1c0c274"/>
                                             </add>
                                         </layer>
                                     </staff>
                                     <staff xml:id="x4ef86909-e756-4cf5-ad50-11ee2d6445ab" n="12">
                                         <layer xml:id="x75470fbb-0941-4c01-a60c-17a58a24f987">
-                                            <del xml:id="c19095a86-cf79-426b-aa10-6d8d90210b51" changeState="#stateA2">
+                                            <del xml:id="c19095a86-cf79-426b-aa10-6d8d90210b51" changeState="#stateA1">
                                                 <mSpace xml:id="xa684f4a4-f6c6-40f9-873a-af75afa7b3db"/>
                                             </del>
-                                            <add xml:id="cca4e067c-9c19-4882-affc-c7c1a6aaf0f1" changeState="#stateA2">
+                                            <add xml:id="cca4e067c-9c19-4882-affc-c7c1a6aaf0f1" changeState="#stateA1">
                                                 <note xml:id="xe54bad65-fdf9-4e45-8a2f-3fb34ac6186d" pname="f" oct="2" dur="4" stem.dir="up" facs="#shape_55136500-0e51-4677-a5d1-56bcaa9ef8d6 #shape_b2c7a2f6-bd57-4e7c-9d09-0a96418cc6a3"/>
                                                 <space xml:id="x7144549d-ff51-4453-a6bc-f52817007bc3" dur="4"/>
                                                 <space xml:id="xa1fed0b1-70d9-463b-9c04-52775d75c6a6" dur="4"/>
@@ -2650,7 +2679,8 @@
                                     <add xml:id="c8ca6240b-c453-4f49-8165-117ee21114ba" changeState="#stateB2">
                                         <octave xml:id="x5c18f1b5-c136-4a11-9eb3-f684b52d6c72" dis="8" dis.place="above" staff="1" tstamp="1" facs="#shape_6a6b5c55-23ea-4d8e-974e-56ea003b6e51 #shape_be38e2dc-61fe-4e0f-aedb-2e09008dffba">8 va</octave>
                                     </add>
-                                    <dynam xml:id="xc3cb143b-6767-4d1c-a5ac-63f9701369e0" staff="1" tstamp="1" place="below" facs="#shape_d591becb-83f1-410c-885e-488dc9663a30 #shape_80cc4ed9-4330-42c1-83bc-09cb25ec5c6b #shape_f052577e-143f-4cb1-ae02-a6c52accbe93">sf:</dynam>
+                                    <add xml:id="cdefghijklmnopqrstuvwxyz" changeState="#stateB3">
+                                        <dynam xml:id="xc3cb143b-6767-4d1c-a5ac-63f9701369e0" staff="1" tstamp="1" place="below" facs="#shape_d591becb-83f1-410c-885e-488dc9663a30 #shape_80cc4ed9-4330-42c1-83bc-09cb25ec5c6b #shape_f052577e-143f-4cb1-ae02-a6c52accbe93">sf:</dynam>
                                     <dynam xml:id="x3a8c89e7-c1d3-4c9c-9e19-d971cccc6913" staff="2" tstamp="1" place="below" facs="#shape_cc304361-4594-48bc-8ee8-87444e60c18c #shape_8ccf0ab2-3b3c-4bf2-9130-ec45462e2f97 #shape_c9892125-e1fb-4eb5-97f2-60c26e5a2fe7">sf:</dynam>
                                     <dynam xml:id="x1e2e1c95-7740-45c6-ac79-b8c90c28fe0b" staff="3" tstamp="1" place="below" facs="#shape_ea3c6334-e4c8-447d-ae39-071fbaef69e0 #shape_4f5d8247-6c69-42a0-9696-a7146bda1779 #shape_3b069329-7499-4581-8f29-bffdcefcab0c">sf:</dynam>
                                     <dynam xml:id="xfa44b621-8dc3-4041-afcc-77c7aa40e16e" staff="4" tstamp="1" place="below" facs="#shape_d35a45d7-1d4d-4537-97ec-b0bc6febeb1d #shape_5b0026e7-35f0-46d8-a3b5-5cfbbb755c0a #shape_dd110637-8312-4961-b285-fa8b5e90ba89">sf:</dynam>
@@ -2659,7 +2689,7 @@
                                     <dynam xml:id="xf569a9cf-fa5b-4740-ad56-30c9d829acab" staff="7" tstamp="1" place="below" facs="#shape_2c5c4e31-54b7-42d5-ad47-d1cd72846a9c #shape_4ee4d32b-b620-4fd1-a1d0-0149f7479f75 #shape_0c78a02f-59a6-4f1f-ac44-b98b7b3ade2c #shape_85040390-8270-414d-80ee-f85e3ff532b7">sf:</dynam>
                                     <dynam xml:id="x2d05f735-5b28-4a06-ab81-c742d8581e41" staff="8" tstamp="1" place="below" facs="#shape_a3dd75b6-c18b-47f1-93c3-138992f3e15e #shape_202cead0-7f5c-4a29-8297-3208d0c7f474 #shape_578156fd-cc2d-4fab-9dc0-d1df8772b60e">sf:</dynam>
                                     <dynam xml:id="x164495ce-1bef-41fd-8b56-492f433f7c13" staff="10" tstamp="1" place="below" facs="#shape_306d7eb8-c3d2-47bb-9489-b8c719867150 #shape_8114f37c-81f8-40aa-b447-763047f0d217">sf:</dynam>
-                                    <dynam xml:id="x18ab964c-91a9-423b-9f93-93cf84c047ba" staff="12" tstamp="1" place="below" facs="#shape_b581fe50-1b29-4574-83a0-92fe8c027848 #shape_69f27f5a-ede0-4d25-8276-c78a015c9101">sf:</dynam>
+                                    <dynam xml:id="x18ab964c-91a9-423b-9f93-93cf84c047ba" staff="12" tstamp="1" place="below" facs="#shape_b581fe50-1b29-4574-83a0-92fe8c027848 #shape_69f27f5a-ede0-4d25-8276-c78a015c9101">sf:</dynam></add>
                                     <cpMark xml:id="x3abddcea-340a-412d-9f4c-cf2f9da3b2da" staff="2" tstamp="1" tstamp2="1m+4" ref.staff="1" place="within">
                                         <rend xml:id="x10c6ed6c-37d3-4f85-8902-c2498285c462" facs="#shape_3ac019e8-af0e-493d-8fbc-cb8ffca99dce #shape_6b9f218b-c500-48ae-95e5-d3336461489a">coi</rend>
                                         <choice xml:id="x0e3344df-1f35-4683-8984-cc63aa5bf259">
@@ -2964,7 +2994,7 @@
                                             </add>
                                         </layer>
                                     </staff>
-                                    <dynam xml:id="x59179f0d-643f-47be-86cc-f6506a6509d0" staff="1" tstamp="1" place="below" facs="#shape_d07323f5-1721-475d-8bc1-180f878e0356 #shape_588fab0c-1df2-4815-8d53-8f5965c69c36 #shape_538cd403-2c24-4304-ab94-93ba6186b0fa #shape_448f0dd3-004c-4b33-9194-247342fc0ceb">sf:</dynam>
+                             <add xml:id="aöldkaölfjslkafdhsldkfghsdgsdgsdg" changeState="#stateB3"><dynam xml:id="x59179f0d-643f-47be-86cc-f6506a6509d0" staff="1" tstamp="1" place="below" facs="#shape_d07323f5-1721-475d-8bc1-180f878e0356 #shape_588fab0c-1df2-4815-8d53-8f5965c69c36 #shape_538cd403-2c24-4304-ab94-93ba6186b0fa #shape_448f0dd3-004c-4b33-9194-247342fc0ceb">sf:</dynam>
                                     <dynam xml:id="x25775ee0-0ef6-441c-bda5-c61f73391118" staff="2" tstamp="1" place="below" facs="#shape_8c84ccc5-1923-4855-9a7c-ae93b01b7383 #shape_740ef8b4-e145-475d-9153-496417836bf1 #shape_f8920cdc-554a-41da-a155-0fb05c734267">sf:</dynam>
                                     <dynam xml:id="x043c1628-c5a2-440b-86d1-02f6b126ee74" staff="3" tstamp="1" place="below" facs="#shape_619f415b-8fd2-4d79-bb65-31ca3d75da64 #shape_097bd027-c4ac-4e93-a3a5-45f735edd815 #shape_a09ce55b-4cea-4b6f-b52c-0b70a5d3662c">sf:</dynam>
                                     <dynam xml:id="xbb24d0e7-989e-4261-95ab-d884feaf0534" staff="4" tstamp="1" place="below" facs="#shape_b9689ace-9475-456b-90a0-f0f4ef88c456 #shape_a6b728fb-ae25-4e42-9dbb-8e9e789ecea2 #shape_cb435c36-4afb-4fc0-bdd5-4d5c86868646 #shape_786ffb9c-ec87-4f30-b604-51719ea7234f">sf:</dynam>
@@ -2972,7 +3002,7 @@
                                     <dynam xml:id="xac4c059f-99ac-4126-98db-e2f2a4c50acb" staff="6" tstamp="1" place="below" facs="#shape_1bd1dfb4-1486-45a3-ba2d-e5497f7e8dd7">sf:</dynam>
                                     <dynam xml:id="xed3a1ea1-ff46-46aa-babe-baf13aa311c0" staff="8" tstamp="1" place="below" facs="#shape_4dc3b0b6-dead-4cd7-9e29-3010e9d2d42f #shape_ec194b8a-03d6-45b1-b27b-71bdb0d80405 #shape_ce06467e-2de7-4ee6-9eff-8590d0cd2012">sf:</dynam>
                                     <dynam xml:id="x0f2a635a-316b-4751-9fa1-3de065ca2e9a" staff="10" tstamp="1" place="below" facs="#shape_2ec66758-e307-490e-b82a-61f7fcac36c5 #shape_785d4153-ea72-4469-b0d8-d82324508a3e #shape_cecb8ea7-d8a1-45db-9c04-8cac3e0114f8">sf:</dynam>
-                                    <dynam xml:id="xaceb9ad4-d23d-40b1-b48f-20bcb0013272" staff="12" tstamp="1" place="below" facs="#shape_65b5f724-4e16-4f46-a9b5-1356f6d1ecce #shape_d1fc1901-6911-44cb-ab7c-2b2dc9a75328 #shape_ae7e426d-5706-4855-a4f6-f83ab49b97f3 #shape_97ab0b96-f700-445c-baa7-06164b860ce3 #shape_f65e66df-4860-4399-9187-b21b239f9568">sf:</dynam>
+                                    <dynam xml:id="xaceb9ad4-d23d-40b1-b48f-20bcb0013272" staff="12" tstamp="1" place="below" facs="#shape_65b5f724-4e16-4f46-a9b5-1356f6d1ecce #shape_d1fc1901-6911-44cb-ab7c-2b2dc9a75328 #shape_ae7e426d-5706-4855-a4f6-f83ab49b97f3 #shape_97ab0b96-f700-445c-baa7-06164b860ce3 #shape_f65e66df-4860-4399-9187-b21b239f9568">sf:</dynam></add>
                                 </measure>
                                     <!-- BMh8/48: verso, 4.Takt -->
                                 <measure xml:id="x6a6d9ff8-73ed-4e87-95bc-dd63769afbc8" n="340B" label="340B" facs="#shape_549926eb-73ae-407b-a359-1e50f604e60d #shape_97865280-109b-48b1-9962-fc528b72444e #shape_b6bc1bbb-1098-4309-98b6-9120ce041daf #shape_901bbbee-81f2-4b10-9f4d-56516989e406 #shape_cf52c026-f04a-411b-be75-d26c9b2f065d #shape_27dd9924-aa4b-47c6-b31e-6a386381cae0 #shape_eb30062d-ad16-4e65-b5ac-bc8ca103003e #shape_60d544fe-4416-4fad-97c1-75c26ca76a23 #shape_8df951ca-e145-4b58-8dea-d5323ccde935 #shape_6caedd38-680d-4b16-a149-c11b364b3395 #shape_6861deb9-d523-41ca-8a94-d75d6dfb2e43 #shape_0cbc0413-8d18-4ef5-9f67-cbd5d8fd0764 #shape_1dea8547-1df4-4ca5-8f6e-470344b54bae #shape_fba628c3-7658-4a1d-ac2f-016e043f502e #shape_ffc273f7-86bc-425a-a3ff-c1757862ab03">
@@ -3140,7 +3170,8 @@
                                             </add>
                                         </layer>
                                     </staff>
-                                    <dynam xml:id="xd326e5ef-4549-4892-a640-0382500bf127" staff="1" tstamp="1" place="below" facs="#shape_5fb3b07f-b958-4f38-8df7-46f6accb39be #shape_20b5a36c-b0be-421b-9e20-a9d8028c4d3b #shape_7ef42f4d-eceb-4e94-a363-8dc2d14a64f3">sf:</dynam>
+                                  <add xml:id="söldkföoFDUPw9ufsdvhdksndsSV" changeState="#stateB3">
+                                      <dynam xml:id="xd326e5ef-4549-4892-a640-0382500bf127" staff="1" tstamp="1" place="below" facs="#shape_5fb3b07f-b958-4f38-8df7-46f6accb39be #shape_20b5a36c-b0be-421b-9e20-a9d8028c4d3b #shape_7ef42f4d-eceb-4e94-a363-8dc2d14a64f3">sf:</dynam>
                                     <dynam xml:id="x4a574e7e-9650-4d59-a006-bc6ebba1aac3" staff="2" tstamp="1" place="below" facs="#shape_feb11019-52b1-493d-bedb-7a6bc02b01f4 #shape_5d3bddaa-96a1-47d7-b8f9-9b2db1c90517">sf:</dynam>
                                     <dynam xml:id="xcc64afe9-9b2f-49d9-83b0-29352bf7e8d4" staff="3" tstamp="1" place="below" facs="#shape_d2658d0c-4e80-4dcc-ae1b-682cf5572c63 #shape_db5f1c18-89fa-484d-a01e-2731107793d6 #shape_bff98647-4d5f-4298-ae12-333031fb570c">sf:</dynam>
                                     <dynam xml:id="x2cde1bf2-40aa-4986-850a-67240872b393" staff="4" tstamp="1" place="below" facs="#shape_cf7e6b35-aa7e-4199-b158-80756b9de21b #shape_0682d910-2986-4620-8bbf-cdd673db4a49">sf:</dynam>
@@ -3149,7 +3180,7 @@
                                     <dynam xml:id="x9adf0424-fe2d-4fc4-990d-725b5b08af7c" staff="7" tstamp="1" place="below" facs="#shape_bdf72de7-41fc-4465-bf55-46cc6bee9bfa #shape_90c78e4a-77c7-4ee3-a5d8-da5e6e9b4260 #shape_bb3dd0c3-7aa7-40e5-b1ad-8e673ef30256">sf:</dynam>
                                     <dynam xml:id="x4fac3779-1368-4a7b-98d3-e08273a0fb1e" staff="8" tstamp="1" place="below" facs="#shape_ad8a0c05-ae2f-4e3e-8749-7e9afcec8466 #shape_cde3fb79-694e-4b02-b3e1-41dbe0fe694f #shape_23ee9456-963d-4864-8a2a-176913fd4e49 #shape_17b35a06-a257-4530-a2ed-e6b57358b828">sf:</dynam>
                                     <dynam xml:id="x8f58ac91-d8ac-4fe7-bf5b-e035d798489e" staff="10" tstamp="1" place="below" facs="#shape_5d009098-479c-47b7-889b-3307df129d59 #shape_f3af41e1-cba4-402f-a527-b540d418edff #shape_dc8f11ba-cc6b-4ff7-8439-baebe32a9948">sf:</dynam>
-                                    <dynam xml:id="x2b6183d3-4801-487e-8275-8e9d9aca6f94" staff="12" tstamp="1" place="below" facs="#shape_3d8b3d29-7541-477f-ac1c-6caff879b388 #shape_a80ad077-1837-42bd-840e-a4e52ac07e2e #shape_3ad8a035-2995-419a-92bd-7f551145a01b">sf:</dynam>
+                                    <dynam xml:id="x2b6183d3-4801-487e-8275-8e9d9aca6f94" staff="12" tstamp="1" place="below" facs="#shape_3d8b3d29-7541-477f-ac1c-6caff879b388 #shape_a80ad077-1837-42bd-840e-a4e52ac07e2e #shape_3ad8a035-2995-419a-92bd-7f551145a01b">sf:</dynam></add>
                                 </measure>
                                     <!-- BMh8/48: verso, 5.Takt -->
                                 <measure xml:id="x0ba4a5ac-6535-4319-917e-3ab473537c0e" n="341B" label="341B" facs="#shape_0cbc0413-8d18-4ef5-9f67-cbd5d8fd0764 #shape_1dea8547-1df4-4ca5-8f6e-470344b54bae #shape_ffc273f7-86bc-425a-a3ff-c1757862ab03 #shape_fba628c3-7658-4a1d-ac2f-016e043f502e">
@@ -3328,7 +3359,8 @@
                                             <barLine xml:id="x060f6674-ac0e-4e5d-b39e-8db375de9f24" rend="end" facs="#shape_efceaf47-2425-4f84-adc4-6df41845e6c2"/>
                                         </layer>
                                     </staff>
-                                    <dynam xml:id="xaba7d06c-ae1b-48d1-bc89-e8fc86146d03" staff="1" tstamp="1" place="below" facs="#shape_e99dac09-0067-4c60-bac8-01d92bc46ae6 #shape_cd9bf4ba-2ef2-4ef7-8cbc-bf8fe12a2139 #shape_d3c0bda4-a168-4a56-843e-1564437cfe40">sf:</dynam>
+                                 <add xml:id="laksdj0w9trskaödfjaödfjaöfjaöfojaölfskaöäläaöl"
+                                     changeState="#stateB3"> <dynam xml:id="xaba7d06c-ae1b-48d1-bc89-e8fc86146d03" staff="1" tstamp="1" place="below" facs="#shape_e99dac09-0067-4c60-bac8-01d92bc46ae6 #shape_cd9bf4ba-2ef2-4ef7-8cbc-bf8fe12a2139 #shape_d3c0bda4-a168-4a56-843e-1564437cfe40">sf:</dynam>
                                     <dynam xml:id="xbfdc3d61-f8ba-4314-ac54-b123019dced9" staff="2" tstamp="1" place="below" facs="#shape_2d6eb6dd-ff5d-4eaa-8b18-665ed7ee3620">sf:</dynam>
                                     <dynam xml:id="x030e4127-fad1-498a-b3ab-770bd3d3f647" staff="3" tstamp="1" place="below" facs="#shape_055c38e1-d16b-4465-90a7-c3312fc28232">sf:</dynam>
                                     <dynam xml:id="x7ce44bfa-6750-4c93-a736-5bfb02026f8e" staff="4" tstamp="1" place="below" facs="#shape_605d8b49-bc5a-4aea-b021-8e143f02e7f5 #shape_dce9ccd8-ae54-4998-8a0c-7a17f6b67eaf">sf:</dynam>
@@ -3348,7 +3380,7 @@
                                     <fermata xml:id="x429cc847-2a93-4ab9-800e-a3130c785e79" staff="8" tstamp="3" place="above" facs="#shape_5c071f8b-67b0-4afd-9d9b-975cbbddc490 #shape_a562d4aa-d1cd-432a-8786-8e5ae8312d92"/>
                                     <fermata xml:id="x03fa105d-2eef-4a8c-9dc2-5edb9eb2bfba" staff="10" tstamp="3" place="above" facs="#shape_077306ed-faae-42cb-bab6-798243c5de09 #shape_c95d2fa4-3a72-4dfe-8372-4e41e385bbde"/>
                                     <fermata xml:id="x00c721b1-b1a8-45b8-a5bb-73ed3f66c6b7" staff="12" tstamp="3" place="above" facs="#shape_7cd556c8-b756-43fb-8ed0-93d39bc45f9a #shape_a91aa79c-6d94-4f4e-ae40-d5b00409b256"/>
-                                    <metaMark type="confirmation" xml:id="klfjaritu0934at8pofygjöyerg" staff="6" tstamp="1" facs="#shape_0373aebc-eb2a-4e41-870f-6a4d20a59ba1"/>
+                                    <metaMark type="confirmation" xml:id="klfjaritu0934at8pofygjöyerg" staff="6" tstamp="1" facs="#shape_0373aebc-eb2a-4e41-870f-6a4d20a59ba1"/></add>
                                 </measure>
                             </add>
                         </del>
@@ -10413,7 +10445,7 @@
                             <!-- Tempo di Menuetti in F-->
                             <!-- erste Zeile -->
                             <!-- todo: states kontrollieren!!!-->
-                            <add xml:id="c886b578f-63a3-4ef0-b047-8f407230d506" changeState="#stateB4">
+                            <add xml:id="c886b578f-63a3-4ef0-b047-8f407230d506" changeState="#stateX">
                                 <section xml:id="x9e749a28-8e25-44a1-8dad-2b4292655449">
                                     <measure xml:id="x6303b141-985a-4610-8563-6c0de73b7544" facs="#shape_d52ba2b7-2064-403f-b8c8-b5672e265a1d #shape_8f1abd72-9500-4192-92a3-9f9af921bdc1 #shape_b6e80f07-77d5-4ca8-bf4c-ad6401cca890 #shape_84494e02-4e45-4ea7-b1fa-c1eb04fb50b0 #shape_236cdf70-bde5-46ab-ab24-b3cc9f7eb8d3 #shape_e36d191f-27e9-4e51-81bc-8de04558dce1" metcon="false" n="0" label="0">
                                         <staff xml:id="x99926346-c68c-43d0-ac5c-a768dff6e882">
@@ -10802,7 +10834,7 @@
                                         <clef xml:id="xc2b0b30d-c996-4f08-8c2f-2bf63464805f" shape="G" line="2" facs="#shape_ef2779ac-8b7f-4de9-b13a-f546e52b5b2c"/>
                                     </del>
                                     <add xml:id="c90d34cef-2710-4aa0-ab23-4b0a7290e44d" changeState="">-->
-                                        <clef xml:id="x82cea9e6-75e5-4c89-b816-a8c31a55bee6" shape="F" line="4" facs="#shape_ad0efa5e-2e67-4da8-be48-0705a7ae9463"/>
+                                    <clef xml:id="x82cea9e6-75e5-4c89-b816-a8c31a55bee6" shape="F" line="4" facs="#shape_ad0efa5e-2e67-4da8-be48-0705a7ae9463"/>
                                     <!--</add>-->
                                     <!-- erster Takt des aufgeklebten Zettels auf rechter Seite der Paukenstimme -->
                                     <measure n="332C" xml:id="newd040772b-03a4-4833-aa71-6a9f03be5dee" facs="#shape_bb94219a-7240-40a1-990c-2ec084fc62a9 #shape_82369f26-7226-42cd-a13e-e687c02f8488 #shape_875cc98a-2f9f-4679-9eac-2a45a54749d0 #shape_9abe388f-a43f-4339-a4e5-4ddcd4b76b47 #shape_49a238af-9570-4718-9fc7-02aaacb83e8d">
