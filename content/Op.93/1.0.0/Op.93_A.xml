@@ -29,12 +29,65 @@
                         visualisieren.
                     </p>
                 </annot>
+                <!-- FR: wahrscheinlich werden wir später "annot 1" bis "annot 3" löschen! Die neue Texte schreibe ich jetzt direkt danach, also von "annot 4" -->
+                
+                <!--<annot n="1" type="introduction">
+                    <title>
+                        Erste Folge - nur Autograph
+                    </title>
+                    <p>Seite 26 verso des Autographs und Seite recto des Austauschblattes sind leer.
+                    Variante A erscheint auf Seite 26 verso des Autographs, dann wird Seite 26 verso gestrichen.
+                    Variante B auf Seite recto des Austauschblatte, dann wird umgeblättert und Variante B komplett gezeigt.
+                    Das Austauschblatt wird herausgeschnitten und neue leere Blätter hinzugefügt.
+                    Seite 27 recto und ff. mit Variante C erscheinen.</p>
+                    <fig>
+                        <avFile xml:id="video1" target="http://nagano.upb.de:29999/video/BW_op.93_sequence1.mp4" mimetype="video/mp4"/>
+                        <caption>Erste Folge</caption>
+                    </fig>
+                </annot>
+                <annot n="2" type="introduction">
+                    <title>Zweite Folge - Beziehung Autograph und Paukenstimme</title>
+                    <p>Autograph, Austauschblatt und Paukenstimme: Seite 26 verso im Autograph zeigt vollständige Variante A, welche gestrichen wird. Das Austauschblatt ist leer, in der Paukenstimme steht der Text bis zu Variante B.
+                    Dann wird sowohl im Austauschblatt als auch in der Paukenstimme Variante B gezeigt
+                    Text auf der rechten Seite der Paukenstimme wird gezeigt (ohne Überklebung).
+                    Austauschblatt verschwindet und Streichung der Variante B in der Paukenstimme gezeigt.
+                    Variante C auf Seite 27 recto und Überklebung in der Paukenstimme (Variante C) werden angezeigt.</p>
+                    <fig>
+                        <avFile xml:id="video2" target="http://nagano.upb.de:29999/video/BW_op.93_sequence2.mp4" mimetype="video/mp4"/>
+                        <caption>Zweite Folge</caption>
+                    </fig>
+                </annot>
+                <annot n="3" type="introduction">
+                    <title>
+                        Dritte Folge - Beziehung Autograph und Violinenstimme
+                    </title>
+                    <p label="Hypothese_1">
+                        Variante A ist im Autograph noch nicht gestrichen, auf der rechten Seite sind das 
+                        leere Austauschblatt und die Violinenstimme zu sehen. In der ersten Zeile des Blattes 
+                        der Violinenstimme wird  Variante A gezeigt. Im Autograph wird Variante A gestrichen, 
+                        Variante B im Austauschblatt gezeigt, welches danach verschwindet und Variante C auf Bl. 27 ff. gezeigt
+                        
+                    </p>
+                    <p label="Hypothese_2">
+                        Variante A wird im Autograph gestrichen, auf der rechten Seite steht nun schon Bl. 27 recto und die 
+                        vollständige Variante C. Gleichzeitig ist das Blatt mit der Violinenstimme leer. Dann wird Variante A (erste Zeile) 
+                        in der Violinenstimme eingeblendet, direkt danach auch die Variante C (ab Zeile 3 bis zum Ende).
+                    </p>
+                    <fig>
+                        <avFile xml:id="video3" target="http://nagano.upb.de:29999/video/BW_op.93_sequence3.mp4" mimetype="video/mp4"/>
+                        <caption>Dritte Folge</caption>
+                    </fig>
+                    <fig>
+                        <avFile xml:id="video4" target="http://nagano.upb.de:29999/video/BW_op.93_sequence4.mp4" mimetype="video/mp4"/>
+                        <caption>Vierte Folge</caption>
+                    </fig>
+                </annot>-->
                 <annot n="1" type="introduction">
                     <title>Zum Werk</title>
                     <p>Beethovens 8. Symphonie F-Dur op. 93 entstand zwischen 1812 und 1817.
                         Die ersten dazugehörigen Skizzen sind im sogenannten 
                         <bibl authURI="https://www.beethoven.de/sixcms/detail.php?id=15123&amp;template=dokseite_digitales_archiv_de&amp;_dokid=wm231&amp;_seite=1-1">‚Petter-Skizzenbuch‘</bibl>  enthalten und waren zunächst (laut Brandenburg/Petter, S. 117–148), für ein Klavierkonzert gedacht, nicht für eine Symphonie.
-                        Eine erste, wegen des schlechten Gesundheitszustandes des Komponisten zunächst verschobene Durchspielprobe der ganzen Symphonie fand am <date>21. April 1813</date> bei <ref target="http://viaf.org/viaf/72186675/">Erzherzog Rudolph</ref> in der Wiener Hofburg statt.
+                        Eine erste, wegen des schlechten Gesundheitszustandes des Komponisten zunächst verschobene Durchspielprobe der ganzen Symphonie fand am <date>21. April 1813</date> bei <ref target="#https://viaf.org/viaf/72186675/">Erzherzog Rudolph</ref> in der Wiener Hofburg statt.
                         Die erste öffentliche Aufführung ist für den <date>27. Februar 1814</date> im großen Redoutensaal in Wien belegt.
                         Die <bibl authURI="http://www.beethoven.de/sixcms/detail.php?id=15123&amp;template=dokseite_digitales_archiv_de&amp;_dokid=T00016089&amp;_seite=1-1">Originalausgabe</bibl>  erschien frühestens Ostern 1817 bei <ref>Steiner &amp; Comp.</ref> in Wien.</p>
                 </annot>
@@ -66,8 +119,8 @@
                 <annot n="3" type="introduction">
                     <title>Zur bisherigen wissenschaftlichen Auseinandersetzung mit dem Problem des Satzschlusses</title>
                     <p>Dass die letzten Takte des I. Satzes der 8. Symphonie revidiert wurden, ist für Beethoven-Spezialisten keine Neuigkeit. 
-                        <ref target="http://viaf.org/viaf/22234316/">Gustav Nottebohm</ref> berichtete als erster von einem ursprünglich kürzeren Schluss auf der Basis einer von Kopisten abgeschriebenen Pauken-Stimme (Nottebohm/Beethoveniana, S. 25).
-                        Eben diese Variante wurde dann anhand der erwähnten Pauken-Stimme an dem heute in Bonn aufbewahrten Blatt und der Pariser Violin-Stimme von <ref target="http://viaf.org/viaf/44566274/">Alfred Orel</ref> untersucht (Orel/Op. 93, S. 50–53).
+                        <ref target="#https://viaf.org/viaf/22234316/">Gustav Nottebohm</ref> berichtete als erster von einem ursprünglich kürzeren Schluss auf der Basis einer von Kopisten abgeschriebenen Pauken-Stimme (Nottebohm/Beethoveniana, S. 25).
+                        Eben diese Variante wurde dann anhand der erwähnten Pauken-Stimme an dem heute in Bonn aufbewahrten Blatt und der Pariser Violin-Stimme von <ref target="#https://viaf.org/viaf/44566274/">Alfred Orel</ref> untersucht (Orel/Op. 93, S. 50–53).
                         Da Nottebohms Transkription Fehler enthielt und die Quelle in Paris seinerzeit nicht zugänglich war, konnte die Variantenbildung nicht vollständig geklärt werden.
                         Es wurde nur die Vermutung aufgestellt, die drei erwähnten Quellen könnten eine alternative und kürzere Fassung des Schlusses bezeugen; 
                         von diesem Moment an war diese Stelle Grundlage zahlreicher Diskussionen in der Fachliteratur (vgl. Literaturauswahl).
@@ -99,7 +152,7 @@
                         Anhand der Tintenfarbe (wobei diese nicht immer eindeutig zu unterscheiden ist) ist zu vermuten, dass zunächst Violine 1, Violine 2 und Basse niedergeschrieben sind und die Bratsche (zumindest in Teilen) anschließend ergänzt worden ist.
                         Die Variante A wurde dann in diesem unvollständigen Zustand ohne Bläser belassen.
                         Die zweite, vollständig orchestrierte Variante B – deutlich länger als die erste – ist auf dem in Bonn überlieferten Einzelblatt dokumentiert.
-                        Auch in diesem Fall kann man durch die unterschiedlichen Farbnuancen der Tinte mehrere Schreibschichten identifizieren, die teilweise als <ref target="http://beethovens-werkstatt.de/glossary/progression/">Progression</ref> und teilweise als <ref target="http://beethovens-werkstatt.de/glossary/intervention/">Intervention</ref> aufzufassen sind. 
+                        Auch in diesem Fall kann man durch die unterschiedlichen Farbnuancen der Tinte mehrere Schreibschichten identifizieren, die teilweise als <ref target="#https://beethovens-werkstatt.de/glossary/progression/">Progression</ref> und teilweise als <ref target="#https://beethovens-werkstatt.de/glossary/intervention/">Intervention</ref> aufzufassen sind. 
                         Die dritte, endgültige Variante C in der Berliner Werkniederschrift setzt sich wiederum aus mehreren Schreibschichten (teils als Progression, teils als Intervention) zusammen.
                         Die hier beschriebene Variantenreihenfolge könnte also an einen linearen Revisionsprozess denken lassen, wobei jede Variante durch eine neue und längere ersetzt worden ist. 
                     </p>
@@ -153,8 +206,8 @@
                     </p>
                     <p>Die dritte, ausführlichste Variante C wurde ebenfalls in unterschiedlichen Phasen perfektioniert. 
                         Die erkennbaren Binnenvarianten wurden in einer gegenwärtig nicht mehr rekonstruierbaren Reihenfolge hinzugefügt – deswegen wurden sie hier alle zu einer einzigen Schreibschicht (C2) zusammengefasst.
-                        Der unvollständige Text unter der Streichung von Schreibschicht B3 zeigt, dass offenbar auch auf diesen Seiten als Ausgangspunkt zuerst eine <ref target="http://beethovens-werkstatt.de/glossary/leitstimme/">Leitstimme</ref> niedergeschrieben wurde. 
-                        Die von Tintenfarbnuancen gebotenen <ref target="http://beethovens-werkstatt.de/glossary/metatext/">Metatexte</ref> reichen aber nicht aus, um eine solche Leitstimme eindeutig zu rekonstruieren.
+                        Der unvollständige Text unter der Streichung von Schreibschicht B3 zeigt, dass offenbar auch auf diesen Seiten als Ausgangspunkt zuerst eine <ref target="https://beethovens-werkstatt.de/glossary/leitstimme/">Leitstimme</ref> niedergeschrieben wurde. 
+                        Die von Tintenfarbnuancen gebotenen <ref target="https://beethovens-werkstatt.de/glossary/metatext/">Metatexte</ref> reichen aber nicht aus, um eine solche Leitstimme eindeutig zu rekonstruieren.
                     </p>
                     <p> Der Duktus des auf Bl. 30 recto niedergeschriebenen Textes zeigt deutliche Spuren einer weiteren, nicht genau rekonstruierbaren Umarbeitungsphase, 
                         in der im Verlauf eines Text-Erweiterungsprozesses mehrere Takte zwischen den schon vorhandenen eingefügt wurden.
@@ -220,12 +273,13 @@
                             <del xml:id="c843ee216-6009-466c-aca2-8749b432d97a" changeState="#stateC">
                                 <folium xml:id="new15c1b133-850f-43ba-87ab-9939a680f3a2" recto="#D-BNba_recto" verso="#D-BNba_verso" width="263" height="292" unit="mm"/>
                             </del>
-                            <add xml:id="blattsoollerstinC1auftauchen" changeState="#stateC">
+                            <add xml:id="blattsollerstinC1auftauchen" changeState="#stateC">
                                 <folium recto="#D-B_fol27r" verso="#D-B_fol27v" width="245" height="318" unit="mm"/>
-                            </add>
+                            
                             <folium recto="#D-B_fol28r" verso="#D-B_fol28v" width="245" height="318" unit="mm"/>
                             <folium recto="#D-B_fol29r" verso="#D-B_fol29v" width="245" height="318" unit="mm"/>
                             <folium recto="#D-B_fol30r" width="245" height="318" unit="mm"/>
+                            </add>
                         </foliumSetup>
                     </physDesc>
                 </source>
@@ -337,12 +391,8 @@
                                         
                                     </relationList>
                                 </state>
-                                <state xml:id="stateA3" label="A3" decls="#bwTerm_copy" prev="#stateA2" next="#stateB1">
-                                    <relationList>
-                                        
-                                    </relationList>
-                                </state>
-                                <state xml:id="stateB1" label="B1" prev="#stateA3" decls="#bwTerm_variant #bwTerm_closedVariant">
+                                
+                                <state xml:id="stateB1" label="B1" prev="#stateA2" decls="#bwTerm_variant #bwTerm_closedVariant">
                                     <relationList>
                                         
                                     </relationList>
@@ -383,20 +433,28 @@
                                         
                                     </relationList>
                                 </state>
-                                <state xml:id="stateC_internal1" label="C2" follows="#stateC" precedes="#statePreC">
+                                <state xml:id="stateC_internal1" label="C2" follows="#stateC" precedes="#stateA3">
                                     <relationList xml:id="rb659b2ce-d918-4ece-a990-a9ba91bb7d00">
                                         
                                     </relationList>
                                 </state>
-                                <state xml:id="stateC_internal2" label="C3" follows="#stateC" precedes="#statePreC">
+                                <state xml:id="stateC_internal2" label="C3" follows="#stateC" precedes="#stateA3">
                                     <relationList xml:id="r9822b2c6-1c3b-4253-b5e3-85cfefaabc3b">
                                         
                                     </relationList>
                                 </state>
-                                <state xml:id="statePreC" label="C4" follows="#stateC_internal1 #stateC_internal2" next="#stateC5">
+                                <state xml:id="stateA3" label="A3" decls="#bwTerm_copy" follows="#stateC_internal1 #stateC_internal2" next="#stateC4">
+                                    <relationList>
+                                        
+                                    </relationList>
+                                </state>
+                                <state xml:id="stateC4" label="C4" prev="#stateA3" next="#statePreC">
                                     <relationList/>
                                 </state>
-                                <state xml:id="stateC5" label="C5" prev="#stateC4">
+                                <state xml:id="statePreC" label="C5" prev="#stateC4" next="#stateC5">
+                                    <relationList/>
+                                </state>
+                                <state xml:id="stateC5" label="C6" prev="#statePreC">
                                     <relationList/>
                                 </state>    
                                 
@@ -9362,7 +9420,7 @@
                                     </add>
                                 </del>
                         <!--<add changeState="#statePostC2">-->
-                                <add xml:id="c71d3dab5-78c3-490f-9c3d-6ad96ba1b04c" changeState="#stateC">
+                                <add xml:id="c71d3dab5-78c3-490f-9c3d-6ad96ba1b04c" changeState="#stateC4">
                                     <measure xml:id="b259e393c-2ce2-48f3-967e-67d075fc70d5" facs="#shape_1ca15d20-b8e5-4e15-aecd-24158c4e68a1" n="332C" label="332C">
                                         <staff xml:id="b49f851e0-2bbd-4f4f-979a-54ac36a5b2c2">
                                             <layer xml:id="bc15fb579-de03-4861-ae3b-562b5e5ba973">
